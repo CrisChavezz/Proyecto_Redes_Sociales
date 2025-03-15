@@ -1,0 +1,901 @@
+id,usuario,fecha,contenido,likes,comentarios,compartidos,Texto_Procesado,Sentimiento
+1,usuario1,2025-09-19,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",79,87,26,experiencia maravilloso satisfecho satisfaccion,Positivo
+2,usuario2,2025-09-05,El peor servicio que he recibido. #colera,341,98,7,peor servicio recibido colera,Negativo
+3,usuario3,2025-03-13,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",144,25,41,servicio excelente satisfecho satisfaccion,Positivo
+4,usuario4,2025-07-28,No puedo creer lo mal que funciona esto. #colera,366,41,37,poder creer mal función colera,Negativo
+5,usuario5,2025-05-14,"Esto es increible, estoy extasiado! #extasis",451,4,31,increible extasiado extasis,Positivo
+6,usuario6,2025-08-26,"No volvere a comprar aqui, muy decepcionado. #decepcion",128,12,11,volverir comprar aqui decepcionado decepcion,Negativo
+7,usuario7,2025-05-12,Me siento decepcionado con la calidad. #decepcion,44,57,8,sentir decepcionado calidad decepcion,Negativo
+8,usuario8,2025-06-25,Es frustrante que no funcione como esperaba. #frustracion,320,79,43,frustrante funcione esperar frustracion,Negativo
+9,usuario9,2025-05-20,El peor servicio que he recibido. #colera,318,85,28,peor servicio recibido colera,Negativo
+10,usuario10,2025-07-02,"No volvere a comprar aqui, muy decepcionado. #decepcion",1,99,35,volverir comprar aqui decepcionado decepcion,Negativo
+11,usuario11,2025-09-10,"Esto es increible, estoy extasiado! #extasis",45,66,1,increible extasiado extasis,Positivo
+12,usuario12,2025-01-28,"Un producto realmente bueno, supero mis expectativas. #alegria",491,69,12,producto realmente bueno supero expectativa alegrio,Positivo
+13,usuario13,2025-10-15,El peor servicio que he recibido. #colera,290,67,40,peor servicio recibido colera,Negativo
+14,usuario14,2025-10-27,"No volvere a comprar aqui, muy decepcionado. #decepcion",476,87,36,volverir comprar aqui decepcionado decepcion,Negativo
+15,usuario15,2025-02-25,No puedo creer lo mal que funciona esto. #colera,16,78,38,poder creer mal función colera,Negativo
+16,usuario16,2025-01-16,"No volvere a comprar aqui, muy decepcionado. #decepcion",229,40,0,volverir comprar aqui decepcionado decepcion,Negativo
+17,usuario17,2025-07-17,No puedo creer lo mal que funciona esto. #colera,62,6,39,poder creer mal función colera,Negativo
+18,usuario18,2025-01-21,"No volvere a comprar aqui, muy decepcionado. #decepcion",173,14,30,volverir comprar aqui decepcionado decepcion,Negativo
+19,usuario19,2025-04-08,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",412,48,8,servicio excelente satisfecho satisfaccion,Positivo
+20,usuario20,2025-12-06,El peor servicio que he recibido. #colera,202,52,38,peor servicio recibido colera,Negativo
+21,usuario21,2025-10-25,Estoy muy feliz con este producto! #alegria,132,15,24,feliz producto alegrio,Positivo
+22,usuario22,2025-06-21,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",35,12,6,experiencia maravilloso satisfecho satisfaccion,Positivo
+23,usuario23,2025-12-24,"Esto es increible, estoy extasiado! #extasis",346,71,13,increible extasiado extasis,Positivo
+24,usuario24,2025-12-10,"No volvere a comprar aqui, muy decepcionado. #decepcion",296,68,35,volverir comprar aqui decepcionado decepcion,Negativo
+25,usuario25,2025-07-14,El peor servicio que he recibido. #colera,235,64,23,peor servicio recibido colera,Negativo
+26,usuario26,2025-02-25,"No volvere a comprar aqui, muy decepcionado. #decepcion",30,20,37,volverir comprar aqui decepcionado decepcion,Negativo
+27,usuario27,2025-01-02,"No volvere a comprar aqui, muy decepcionado. #decepcion",127,42,35,volverir comprar aqui decepcionado decepcion,Negativo
+28,usuario28,2025-03-24,No puedo creer lo mal que funciona esto. #colera,143,27,14,poder creer mal función colera,Negativo
+29,usuario29,2025-07-08,Es frustrante que no funcione como esperaba. #frustracion,377,0,42,frustrante funcione esperar frustracion,Negativo
+30,usuario30,2025-05-26,El peor servicio que he recibido. #colera,117,32,41,peor servicio recibido colera,Negativo
+31,usuario31,2025-06-02,Me siento decepcionado con la calidad. #decepcion,169,52,49,sentir decepcionado calidad decepcion,Negativo
+32,usuario32,2025-03-31,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",185,41,6,servicio excelente satisfecho satisfaccion,Positivo
+33,usuario33,2025-04-25,"Esto es increible, estoy extasiado! #extasis",114,81,41,increible extasiado extasis,Positivo
+34,usuario34,2025-12-23,Estoy muy feliz con este producto! #alegria,373,86,45,feliz producto alegrio,Positivo
+35,usuario35,2025-02-02,"Un producto realmente bueno, supero mis expectativas. #alegria",461,100,1,producto realmente bueno supero expectativa alegrio,Positivo
+36,usuario36,2025-09-27,Es frustrante que no funcione como esperaba. #frustracion,497,51,12,frustrante funcione esperar frustracion,Negativo
+37,usuario37,2025-06-18,Estoy muy feliz con este producto! #alegria,269,71,1,feliz producto alegrio,Positivo
+38,usuario38,2025-01-26,No puedo creer lo mal que funciona esto. #colera,472,97,32,poder creer mal función colera,Negativo
+39,usuario39,2025-08-21,Es frustrante que no funcione como esperaba. #frustracion,270,15,37,frustrante funcione esperar frustracion,Negativo
+40,usuario40,2025-12-04,Estoy muy feliz con este producto! #alegria,171,39,16,feliz producto alegrio,Positivo
+41,usuario41,2025-04-28,"Esto es increible, estoy extasiado! #extasis",112,78,33,increible extasiado extasis,Positivo
+42,usuario42,2025-06-30,No puedo creer lo mal que funciona esto. #colera,3,34,9,poder creer mal función colera,Negativo
+43,usuario43,2025-12-30,"Un producto realmente bueno, supero mis expectativas. #alegria",259,57,3,producto realmente bueno supero expectativa alegrio,Positivo
+44,usuario44,2025-06-13,Me siento decepcionado con la calidad. #decepcion,287,32,31,sentir decepcionado calidad decepcion,Negativo
+45,usuario45,2025-03-30,"No volvere a comprar aqui, muy decepcionado. #decepcion",333,25,37,volverir comprar aqui decepcionado decepcion,Negativo
+46,usuario46,2025-12-30,El peor servicio que he recibido. #colera,257,87,16,peor servicio recibido colera,Negativo
+47,usuario47,2025-04-27,El peor servicio que he recibido. #colera,328,71,2,peor servicio recibido colera,Negativo
+48,usuario48,2025-02-16,El peor servicio que he recibido. #colera,46,53,6,peor servicio recibido colera,Negativo
+49,usuario49,2025-01-20,"Esto es increible, estoy extasiado! #extasis",103,58,17,increible extasiado extasis,Positivo
+50,usuario50,2025-03-14,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",485,79,49,servicio excelente satisfecho satisfaccion,Positivo
+51,usuario51,2025-08-10,"Un producto realmente bueno, supero mis expectativas. #alegria",188,73,46,producto realmente bueno supero expectativa alegrio,Positivo
+52,usuario52,2025-08-13,"Un producto realmente bueno, supero mis expectativas. #alegria",353,10,44,producto realmente bueno supero expectativa alegrio,Positivo
+53,usuario53,2025-05-08,Me siento decepcionado con la calidad. #decepcion,32,76,44,sentir decepcionado calidad decepcion,Negativo
+54,usuario54,2025-01-27,Estoy muy feliz con este producto! #alegria,333,78,13,feliz producto alegrio,Positivo
+55,usuario55,2025-10-08,"No volvere a comprar aqui, muy decepcionado. #decepcion",55,44,47,volverir comprar aqui decepcionado decepcion,Negativo
+56,usuario56,2025-12-06,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",62,85,6,experiencia maravilloso satisfecho satisfaccion,Positivo
+57,usuario57,2025-06-13,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",432,41,42,experiencia maravilloso satisfecho satisfaccion,Positivo
+58,usuario58,2025-06-14,El peor servicio que he recibido. #colera,256,16,32,peor servicio recibido colera,Negativo
+59,usuario59,2025-10-26,Es frustrante que no funcione como esperaba. #frustracion,1,88,1,frustrante funcione esperar frustracion,Negativo
+60,usuario60,2025-05-17,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",415,14,31,experiencia maravilloso satisfecho satisfaccion,Positivo
+61,usuario61,2025-10-15,El peor servicio que he recibido. #colera,134,78,31,peor servicio recibido colera,Negativo
+62,usuario62,2025-05-18,Estoy muy feliz con este producto! #alegria,88,39,31,feliz producto alegrio,Positivo
+63,usuario63,2025-06-04,El peor servicio que he recibido. #colera,107,55,33,peor servicio recibido colera,Negativo
+64,usuario64,2025-09-16,Me siento decepcionado con la calidad. #decepcion,243,86,31,sentir decepcionado calidad decepcion,Negativo
+65,usuario65,2025-07-25,"Un producto realmente bueno, supero mis expectativas. #alegria",2,11,43,producto realmente bueno supero expectativa alegrio,Positivo
+66,usuario66,2025-10-26,"Esto es increible, estoy extasiado! #extasis",482,7,11,increible extasiado extasis,Positivo
+67,usuario67,2025-07-02,"Un producto realmente bueno, supero mis expectativas. #alegria",79,49,31,producto realmente bueno supero expectativa alegrio,Positivo
+68,usuario68,2025-05-21,"Esto es increible, estoy extasiado! #extasis",173,35,21,increible extasiado extasis,Positivo
+69,usuario69,2025-04-04,No puedo creer lo mal que funciona esto. #colera,167,56,19,poder creer mal función colera,Negativo
+70,usuario70,2025-06-15,No puedo creer lo mal que funciona esto. #colera,382,59,38,poder creer mal función colera,Negativo
+71,usuario71,2025-02-18,"No volvere a comprar aqui, muy decepcionado. #decepcion",33,41,19,volverir comprar aqui decepcionado decepcion,Negativo
+72,usuario72,2025-12-20,Estoy muy feliz con este producto! #alegria,266,30,29,feliz producto alegrio,Positivo
+73,usuario73,2025-06-11,Estoy muy feliz con este producto! #alegria,107,63,42,feliz producto alegrio,Positivo
+74,usuario74,2025-04-30,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",173,45,31,servicio excelente satisfecho satisfaccion,Positivo
+75,usuario75,2025-03-16,Es frustrante que no funcione como esperaba. #frustracion,472,30,27,frustrante funcione esperar frustracion,Negativo
+76,usuario76,2025-02-12,Es frustrante que no funcione como esperaba. #frustracion,163,69,4,frustrante funcione esperar frustracion,Negativo
+77,usuario77,2025-05-28,Es frustrante que no funcione como esperaba. #frustracion,371,85,2,frustrante funcione esperar frustracion,Negativo
+78,usuario78,2025-12-25,Estoy muy feliz con este producto! #alegria,319,85,46,feliz producto alegrio,Positivo
+79,usuario79,2025-08-05,Estoy muy feliz con este producto! #alegria,438,95,32,feliz producto alegrio,Positivo
+80,usuario80,2025-08-02,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",89,73,15,experiencia maravilloso satisfecho satisfaccion,Positivo
+81,usuario81,2025-12-01,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",19,84,0,servicio excelente satisfecho satisfaccion,Positivo
+82,usuario82,2025-01-14,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",456,36,43,servicio excelente satisfecho satisfaccion,Positivo
+83,usuario83,2025-05-01,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",362,55,19,experiencia maravilloso satisfecho satisfaccion,Positivo
+84,usuario84,2025-11-06,"Un producto realmente bueno, supero mis expectativas. #alegria",265,67,32,producto realmente bueno supero expectativa alegrio,Positivo
+85,usuario85,2025-09-22,"Un producto realmente bueno, supero mis expectativas. #alegria",123,1,41,producto realmente bueno supero expectativa alegrio,Positivo
+86,usuario86,2025-09-22,No puedo creer lo mal que funciona esto. #colera,178,60,48,poder creer mal función colera,Negativo
+87,usuario87,2025-01-04,Me siento decepcionado con la calidad. #decepcion,312,62,37,sentir decepcionado calidad decepcion,Negativo
+88,usuario88,2025-10-29,"No volvere a comprar aqui, muy decepcionado. #decepcion",72,77,28,volverir comprar aqui decepcionado decepcion,Negativo
+89,usuario89,2025-11-08,Estoy muy feliz con este producto! #alegria,100,19,2,feliz producto alegrio,Positivo
+90,usuario90,2025-02-11,Me siento decepcionado con la calidad. #decepcion,143,9,46,sentir decepcionado calidad decepcion,Negativo
+91,usuario91,2025-04-01,"No volvere a comprar aqui, muy decepcionado. #decepcion",55,60,44,volverir comprar aqui decepcionado decepcion,Negativo
+92,usuario92,2025-02-16,"Esto es increible, estoy extasiado! #extasis",254,88,3,increible extasiado extasis,Positivo
+93,usuario93,2025-01-09,Estoy muy feliz con este producto! #alegria,428,23,13,feliz producto alegrio,Positivo
+94,usuario94,2025-11-04,Me siento decepcionado con la calidad. #decepcion,213,28,13,sentir decepcionado calidad decepcion,Negativo
+95,usuario95,2025-12-30,"No volvere a comprar aqui, muy decepcionado. #decepcion",214,20,17,volverir comprar aqui decepcionado decepcion,Negativo
+96,usuario96,2025-11-30,Estoy muy feliz con este producto! #alegria,264,4,4,feliz producto alegrio,Positivo
+97,usuario97,2025-04-26,No puedo creer lo mal que funciona esto. #colera,335,29,26,poder creer mal función colera,Negativo
+98,usuario98,2025-11-30,"Esto es increible, estoy extasiado! #extasis",348,34,48,increible extasiado extasis,Positivo
+99,usuario99,2025-12-12,"Esto es increible, estoy extasiado! #extasis",115,70,12,increible extasiado extasis,Positivo
+100,usuario100,2025-06-02,"Un producto realmente bueno, supero mis expectativas. #alegria",193,23,22,producto realmente bueno supero expectativa alegrio,Positivo
+101,usuario101,2025-12-28,No puedo creer lo mal que funciona esto. #colera,365,9,44,poder creer mal función colera,Negativo
+102,usuario102,2025-01-06,"No volvere a comprar aqui, muy decepcionado. #decepcion",413,56,15,volverir comprar aqui decepcionado decepcion,Negativo
+103,usuario103,2025-08-21,Me siento decepcionado con la calidad. #decepcion,51,8,25,sentir decepcionado calidad decepcion,Negativo
+104,usuario104,2025-02-09,El peor servicio que he recibido. #colera,465,88,16,peor servicio recibido colera,Negativo
+105,usuario105,2025-09-24,El peor servicio que he recibido. #colera,66,71,5,peor servicio recibido colera,Negativo
+106,usuario106,2025-02-08,Me siento decepcionado con la calidad. #decepcion,153,47,37,sentir decepcionado calidad decepcion,Negativo
+107,usuario107,2025-04-05,No puedo creer lo mal que funciona esto. #colera,481,90,14,poder creer mal función colera,Negativo
+108,usuario108,2025-01-15,El peor servicio que he recibido. #colera,337,95,49,peor servicio recibido colera,Negativo
+109,usuario109,2025-10-22,"Esto es increible, estoy extasiado! #extasis",489,65,47,increible extasiado extasis,Positivo
+110,usuario110,2025-06-07,"Un producto realmente bueno, supero mis expectativas. #alegria",230,22,34,producto realmente bueno supero expectativa alegrio,Positivo
+111,usuario111,2025-04-13,No puedo creer lo mal que funciona esto. #colera,293,63,33,poder creer mal función colera,Negativo
+112,usuario112,2025-09-19,"Un producto realmente bueno, supero mis expectativas. #alegria",182,91,17,producto realmente bueno supero expectativa alegrio,Positivo
+113,usuario113,2025-03-13,No puedo creer lo mal que funciona esto. #colera,439,99,14,poder creer mal función colera,Negativo
+114,usuario114,2025-03-13,"No volvere a comprar aqui, muy decepcionado. #decepcion",332,41,4,volverir comprar aqui decepcionado decepcion,Negativo
+115,usuario115,2025-09-16,"Un producto realmente bueno, supero mis expectativas. #alegria",63,32,26,producto realmente bueno supero expectativa alegrio,Positivo
+116,usuario116,2025-06-26,El peor servicio que he recibido. #colera,207,70,23,peor servicio recibido colera,Negativo
+117,usuario117,2025-12-17,El peor servicio que he recibido. #colera,114,54,49,peor servicio recibido colera,Negativo
+118,usuario118,2025-06-24,"Un producto realmente bueno, supero mis expectativas. #alegria",232,75,47,producto realmente bueno supero expectativa alegrio,Positivo
+119,usuario119,2025-02-17,"No volvere a comprar aqui, muy decepcionado. #decepcion",435,4,30,volverir comprar aqui decepcionado decepcion,Negativo
+120,usuario120,2025-12-12,El peor servicio que he recibido. #colera,472,16,32,peor servicio recibido colera,Negativo
+121,usuario121,2025-06-20,Es frustrante que no funcione como esperaba. #frustracion,454,33,13,frustrante funcione esperar frustracion,Negativo
+122,usuario122,2025-03-02,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",116,44,1,experiencia maravilloso satisfecho satisfaccion,Positivo
+123,usuario123,2025-06-20,"Un producto realmente bueno, supero mis expectativas. #alegria",116,51,49,producto realmente bueno supero expectativa alegrio,Positivo
+124,usuario124,2025-01-30,Me siento decepcionado con la calidad. #decepcion,451,39,7,sentir decepcionado calidad decepcion,Negativo
+125,usuario125,2025-05-21,Es frustrante que no funcione como esperaba. #frustracion,2,15,7,frustrante funcione esperar frustracion,Negativo
+126,usuario126,2025-11-27,"No volvere a comprar aqui, muy decepcionado. #decepcion",70,58,10,volverir comprar aqui decepcionado decepcion,Negativo
+127,usuario127,2025-05-08,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",85,91,10,servicio excelente satisfecho satisfaccion,Positivo
+128,usuario128,2025-12-10,Estoy muy feliz con este producto! #alegria,138,68,10,feliz producto alegrio,Positivo
+129,usuario129,2025-09-15,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",57,31,48,servicio excelente satisfecho satisfaccion,Positivo
+130,usuario130,2025-03-23,Me siento decepcionado con la calidad. #decepcion,36,1,8,sentir decepcionado calidad decepcion,Negativo
+131,usuario131,2025-10-17,No puedo creer lo mal que funciona esto. #colera,349,43,44,poder creer mal función colera,Negativo
+132,usuario132,2025-04-27,El peor servicio que he recibido. #colera,399,0,5,peor servicio recibido colera,Negativo
+133,usuario133,2025-07-07,No puedo creer lo mal que funciona esto. #colera,57,7,2,poder creer mal función colera,Negativo
+134,usuario134,2025-08-08,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",13,65,47,experiencia maravilloso satisfecho satisfaccion,Positivo
+135,usuario135,2025-04-21,Me siento decepcionado con la calidad. #decepcion,74,51,44,sentir decepcionado calidad decepcion,Negativo
+136,usuario136,2025-04-20,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",355,11,45,servicio excelente satisfecho satisfaccion,Positivo
+137,usuario137,2025-04-19,"No volvere a comprar aqui, muy decepcionado. #decepcion",148,31,10,volverir comprar aqui decepcionado decepcion,Negativo
+138,usuario138,2025-03-22,Es frustrante que no funcione como esperaba. #frustracion,94,57,47,frustrante funcione esperar frustracion,Negativo
+139,usuario139,2025-11-21,"Un producto realmente bueno, supero mis expectativas. #alegria",340,53,41,producto realmente bueno supero expectativa alegrio,Positivo
+140,usuario140,2025-12-11,No puedo creer lo mal que funciona esto. #colera,36,74,10,poder creer mal función colera,Negativo
+141,usuario141,2025-12-31,Me siento decepcionado con la calidad. #decepcion,43,17,7,sentir decepcionado calidad decepcion,Negativo
+142,usuario142,2025-06-06,No puedo creer lo mal que funciona esto. #colera,76,52,24,poder creer mal función colera,Negativo
+143,usuario143,2025-08-16,Estoy muy feliz con este producto! #alegria,423,90,36,feliz producto alegrio,Positivo
+144,usuario144,2025-12-28,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",462,43,18,servicio excelente satisfecho satisfaccion,Positivo
+145,usuario145,2025-01-25,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",471,84,7,servicio excelente satisfecho satisfaccion,Positivo
+146,usuario146,2025-08-13,"Esto es increible, estoy extasiado! #extasis",335,9,0,increible extasiado extasis,Positivo
+147,usuario147,2025-10-02,"Esto es increible, estoy extasiado! #extasis",256,31,0,increible extasiado extasis,Positivo
+148,usuario148,2025-03-06,No puedo creer lo mal que funciona esto. #colera,31,35,38,poder creer mal función colera,Negativo
+149,usuario149,2025-11-04,"No volvere a comprar aqui, muy decepcionado. #decepcion",45,85,8,volverir comprar aqui decepcionado decepcion,Negativo
+150,usuario150,2025-06-29,Estoy muy feliz con este producto! #alegria,213,54,7,feliz producto alegrio,Positivo
+151,usuario151,2025-08-06,Me siento decepcionado con la calidad. #decepcion,77,48,2,sentir decepcionado calidad decepcion,Negativo
+152,usuario152,2025-01-01,"No volvere a comprar aqui, muy decepcionado. #decepcion",271,25,25,volverir comprar aqui decepcionado decepcion,Negativo
+153,usuario153,2025-12-13,Estoy muy feliz con este producto! #alegria,203,98,6,feliz producto alegrio,Positivo
+154,usuario154,2025-04-22,No puedo creer lo mal que funciona esto. #colera,37,51,50,poder creer mal función colera,Negativo
+155,usuario155,2025-01-27,"Esto es increible, estoy extasiado! #extasis",274,67,47,increible extasiado extasis,Positivo
+156,usuario156,2025-10-23,"Esto es increible, estoy extasiado! #extasis",155,94,14,increible extasiado extasis,Positivo
+157,usuario157,2025-04-09,Estoy muy feliz con este producto! #alegria,449,16,8,feliz producto alegrio,Positivo
+158,usuario158,2025-12-09,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",410,11,5,experiencia maravilloso satisfecho satisfaccion,Positivo
+159,usuario159,2025-07-08,Es frustrante que no funcione como esperaba. #frustracion,57,64,2,frustrante funcione esperar frustracion,Negativo
+160,usuario160,2025-10-01,Es frustrante que no funcione como esperaba. #frustracion,474,22,0,frustrante funcione esperar frustracion,Negativo
+161,usuario161,2025-04-25,No puedo creer lo mal que funciona esto. #colera,94,83,23,poder creer mal función colera,Negativo
+162,usuario162,2025-09-11,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",405,29,9,experiencia maravilloso satisfecho satisfaccion,Positivo
+163,usuario163,2025-09-16,"No volvere a comprar aqui, muy decepcionado. #decepcion",436,78,23,volverir comprar aqui decepcionado decepcion,Negativo
+164,usuario164,2025-09-08,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",317,6,11,experiencia maravilloso satisfecho satisfaccion,Positivo
+165,usuario165,2025-02-28,Me siento decepcionado con la calidad. #decepcion,204,21,11,sentir decepcionado calidad decepcion,Negativo
+166,usuario166,2025-09-27,Es frustrante que no funcione como esperaba. #frustracion,14,67,47,frustrante funcione esperar frustracion,Negativo
+167,usuario167,2025-07-12,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",209,19,8,servicio excelente satisfecho satisfaccion,Positivo
+168,usuario168,2025-11-10,"Un producto realmente bueno, supero mis expectativas. #alegria",162,56,36,producto realmente bueno supero expectativa alegrio,Positivo
+169,usuario169,2025-02-12,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",129,42,1,experiencia maravilloso satisfecho satisfaccion,Positivo
+170,usuario170,2025-10-10,No puedo creer lo mal que funciona esto. #colera,355,78,46,poder creer mal función colera,Negativo
+171,usuario171,2025-04-06,"Esto es increible, estoy extasiado! #extasis",464,13,47,increible extasiado extasis,Positivo
+172,usuario172,2025-06-25,El peor servicio que he recibido. #colera,431,50,11,peor servicio recibido colera,Negativo
+173,usuario173,2025-05-13,El peor servicio que he recibido. #colera,344,15,20,peor servicio recibido colera,Negativo
+174,usuario174,2025-01-21,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",245,40,5,servicio excelente satisfecho satisfaccion,Positivo
+175,usuario175,2025-01-16,El peor servicio que he recibido. #colera,311,41,19,peor servicio recibido colera,Negativo
+176,usuario176,2025-08-27,"Esto es increible, estoy extasiado! #extasis",216,57,29,increible extasiado extasis,Positivo
+177,usuario177,2025-01-21,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",146,57,23,experiencia maravilloso satisfecho satisfaccion,Positivo
+178,usuario178,2025-11-28,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",281,51,41,experiencia maravilloso satisfecho satisfaccion,Positivo
+179,usuario179,2025-12-31,El peor servicio que he recibido. #colera,78,45,20,peor servicio recibido colera,Negativo
+180,usuario180,2025-03-15,"Esto es increible, estoy extasiado! #extasis",223,23,49,increible extasiado extasis,Positivo
+181,usuario181,2025-05-07,Estoy muy feliz con este producto! #alegria,38,41,29,feliz producto alegrio,Positivo
+182,usuario182,2025-01-07,No puedo creer lo mal que funciona esto. #colera,310,5,26,poder creer mal función colera,Negativo
+183,usuario183,2025-05-15,El peor servicio que he recibido. #colera,251,26,33,peor servicio recibido colera,Negativo
+184,usuario184,2025-06-06,"No volvere a comprar aqui, muy decepcionado. #decepcion",379,7,18,volverir comprar aqui decepcionado decepcion,Negativo
+185,usuario185,2025-07-14,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",59,3,13,servicio excelente satisfecho satisfaccion,Positivo
+186,usuario186,2025-07-31,Me siento decepcionado con la calidad. #decepcion,384,59,21,sentir decepcionado calidad decepcion,Negativo
+187,usuario187,2025-02-05,Estoy muy feliz con este producto! #alegria,112,5,10,feliz producto alegrio,Positivo
+188,usuario188,2025-09-08,Me siento decepcionado con la calidad. #decepcion,267,73,27,sentir decepcionado calidad decepcion,Negativo
+189,usuario189,2025-08-06,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",354,4,40,experiencia maravilloso satisfecho satisfaccion,Positivo
+190,usuario190,2025-09-08,"Esto es increible, estoy extasiado! #extasis",356,74,23,increible extasiado extasis,Positivo
+191,usuario191,2025-03-12,Estoy muy feliz con este producto! #alegria,282,6,50,feliz producto alegrio,Positivo
+192,usuario192,2025-06-19,"Un producto realmente bueno, supero mis expectativas. #alegria",9,6,45,producto realmente bueno supero expectativa alegrio,Positivo
+193,usuario193,2025-07-27,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",230,40,31,experiencia maravilloso satisfecho satisfaccion,Positivo
+194,usuario194,2025-12-11,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",34,0,41,experiencia maravilloso satisfecho satisfaccion,Positivo
+195,usuario195,2025-08-13,No puedo creer lo mal que funciona esto. #colera,416,5,30,poder creer mal función colera,Negativo
+196,usuario196,2025-01-29,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",44,75,4,experiencia maravilloso satisfecho satisfaccion,Positivo
+197,usuario197,2025-11-08,Me siento decepcionado con la calidad. #decepcion,323,0,27,sentir decepcionado calidad decepcion,Negativo
+198,usuario198,2025-06-17,"Un producto realmente bueno, supero mis expectativas. #alegria",155,75,2,producto realmente bueno supero expectativa alegrio,Positivo
+199,usuario199,2025-12-07,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",195,68,28,servicio excelente satisfecho satisfaccion,Positivo
+200,usuario200,2025-01-12,Me siento decepcionado con la calidad. #decepcion,162,100,8,sentir decepcionado calidad decepcion,Negativo
+201,usuario201,2025-01-02,Me siento decepcionado con la calidad. #decepcion,18,97,36,sentir decepcionado calidad decepcion,Negativo
+202,usuario202,2025-07-14,El peor servicio que he recibido. #colera,266,48,44,peor servicio recibido colera,Negativo
+203,usuario203,2025-01-04,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",325,12,33,experiencia maravilloso satisfecho satisfaccion,Positivo
+204,usuario204,2025-03-21,"Un producto realmente bueno, supero mis expectativas. #alegria",198,18,21,producto realmente bueno supero expectativa alegrio,Positivo
+205,usuario205,2025-01-04,Estoy muy feliz con este producto! #alegria,28,74,7,feliz producto alegrio,Positivo
+206,usuario206,2025-03-16,Me siento decepcionado con la calidad. #decepcion,157,73,12,sentir decepcionado calidad decepcion,Negativo
+207,usuario207,2025-01-29,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",120,8,16,experiencia maravilloso satisfecho satisfaccion,Positivo
+208,usuario208,2025-01-30,No puedo creer lo mal que funciona esto. #colera,282,0,35,poder creer mal función colera,Negativo
+209,usuario209,2025-04-22,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",10,11,8,experiencia maravilloso satisfecho satisfaccion,Positivo
+210,usuario210,2025-09-19,"No volvere a comprar aqui, muy decepcionado. #decepcion",53,25,37,volverir comprar aqui decepcionado decepcion,Negativo
+211,usuario211,2025-03-21,"No volvere a comprar aqui, muy decepcionado. #decepcion",186,94,36,volverir comprar aqui decepcionado decepcion,Negativo
+212,usuario212,2025-07-28,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",370,13,12,experiencia maravilloso satisfecho satisfaccion,Positivo
+213,usuario213,2025-01-26,"Esto es increible, estoy extasiado! #extasis",70,85,37,increible extasiado extasis,Positivo
+214,usuario214,2025-10-13,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",263,58,6,servicio excelente satisfecho satisfaccion,Positivo
+215,usuario215,2025-01-19,"No volvere a comprar aqui, muy decepcionado. #decepcion",19,3,39,volverir comprar aqui decepcionado decepcion,Negativo
+216,usuario216,2025-10-09,Me siento decepcionado con la calidad. #decepcion,273,5,3,sentir decepcionado calidad decepcion,Negativo
+217,usuario217,2025-04-01,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",219,34,8,experiencia maravilloso satisfecho satisfaccion,Positivo
+218,usuario218,2025-02-07,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",392,89,7,experiencia maravilloso satisfecho satisfaccion,Positivo
+219,usuario219,2025-11-04,"No volvere a comprar aqui, muy decepcionado. #decepcion",59,67,27,volverir comprar aqui decepcionado decepcion,Negativo
+220,usuario220,2025-09-17,Es frustrante que no funcione como esperaba. #frustracion,419,51,48,frustrante funcione esperar frustracion,Negativo
+221,usuario221,2025-05-29,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",68,75,18,servicio excelente satisfecho satisfaccion,Positivo
+222,usuario222,2025-04-19,"Esto es increible, estoy extasiado! #extasis",245,42,27,increible extasiado extasis,Positivo
+223,usuario223,2025-08-18,Estoy muy feliz con este producto! #alegria,491,2,25,feliz producto alegrio,Positivo
+224,usuario224,2025-06-12,No puedo creer lo mal que funciona esto. #colera,155,23,12,poder creer mal función colera,Negativo
+225,usuario225,2025-09-12,El peor servicio que he recibido. #colera,33,17,50,peor servicio recibido colera,Negativo
+226,usuario226,2025-08-31,"Esto es increible, estoy extasiado! #extasis",202,20,22,increible extasiado extasis,Positivo
+227,usuario227,2025-02-08,Me siento decepcionado con la calidad. #decepcion,231,55,28,sentir decepcionado calidad decepcion,Negativo
+228,usuario228,2025-09-15,"No volvere a comprar aqui, muy decepcionado. #decepcion",433,45,41,volverir comprar aqui decepcionado decepcion,Negativo
+229,usuario229,2025-07-30,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",472,64,48,servicio excelente satisfecho satisfaccion,Positivo
+230,usuario230,2025-06-06,"Un producto realmente bueno, supero mis expectativas. #alegria",188,11,34,producto realmente bueno supero expectativa alegrio,Positivo
+231,usuario231,2025-06-12,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",130,94,27,servicio excelente satisfecho satisfaccion,Positivo
+232,usuario232,2025-06-22,No puedo creer lo mal que funciona esto. #colera,348,71,13,poder creer mal función colera,Negativo
+233,usuario233,2025-10-24,"Un producto realmente bueno, supero mis expectativas. #alegria",13,33,49,producto realmente bueno supero expectativa alegrio,Positivo
+234,usuario234,2025-08-08,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",177,90,16,servicio excelente satisfecho satisfaccion,Positivo
+235,usuario235,2025-09-09,"Un producto realmente bueno, supero mis expectativas. #alegria",112,17,4,producto realmente bueno supero expectativa alegrio,Positivo
+236,usuario236,2025-09-10,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",499,23,6,servicio excelente satisfecho satisfaccion,Positivo
+237,usuario237,2025-02-01,No puedo creer lo mal que funciona esto. #colera,134,38,28,poder creer mal función colera,Negativo
+238,usuario238,2025-02-17,El peor servicio que he recibido. #colera,393,74,44,peor servicio recibido colera,Negativo
+239,usuario239,2025-03-29,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",491,5,6,experiencia maravilloso satisfecho satisfaccion,Positivo
+240,usuario240,2025-08-01,"No volvere a comprar aqui, muy decepcionado. #decepcion",344,30,30,volverir comprar aqui decepcionado decepcion,Negativo
+241,usuario241,2025-03-18,Es frustrante que no funcione como esperaba. #frustracion,348,6,7,frustrante funcione esperar frustracion,Negativo
+242,usuario242,2025-06-04,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",410,99,40,experiencia maravilloso satisfecho satisfaccion,Positivo
+243,usuario243,2025-11-26,"No volvere a comprar aqui, muy decepcionado. #decepcion",409,77,35,volverir comprar aqui decepcionado decepcion,Negativo
+244,usuario244,2025-10-10,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",40,63,25,experiencia maravilloso satisfecho satisfaccion,Positivo
+245,usuario245,2025-12-05,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",360,85,37,experiencia maravilloso satisfecho satisfaccion,Positivo
+246,usuario246,2025-04-04,"Un producto realmente bueno, supero mis expectativas. #alegria",71,8,20,producto realmente bueno supero expectativa alegrio,Positivo
+247,usuario247,2025-05-31,Estoy muy feliz con este producto! #alegria,208,82,4,feliz producto alegrio,Positivo
+248,usuario248,2025-10-31,"No volvere a comprar aqui, muy decepcionado. #decepcion",477,84,44,volverir comprar aqui decepcionado decepcion,Negativo
+249,usuario249,2025-05-15,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",275,72,8,servicio excelente satisfecho satisfaccion,Positivo
+250,usuario250,2025-04-24,Estoy muy feliz con este producto! #alegria,299,88,50,feliz producto alegrio,Positivo
+251,usuario251,2025-11-03,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",209,100,9,servicio excelente satisfecho satisfaccion,Positivo
+252,usuario252,2025-12-13,Me siento decepcionado con la calidad. #decepcion,23,73,19,sentir decepcionado calidad decepcion,Negativo
+253,usuario253,2025-12-19,No puedo creer lo mal que funciona esto. #colera,152,21,38,poder creer mal función colera,Negativo
+254,usuario254,2025-09-10,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",298,98,23,experiencia maravilloso satisfecho satisfaccion,Positivo
+255,usuario255,2025-02-14,Me siento decepcionado con la calidad. #decepcion,105,89,10,sentir decepcionado calidad decepcion,Negativo
+256,usuario256,2025-10-08,El peor servicio que he recibido. #colera,37,31,10,peor servicio recibido colera,Negativo
+257,usuario257,2025-08-29,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",123,13,1,experiencia maravilloso satisfecho satisfaccion,Positivo
+258,usuario258,2025-03-06,"No volvere a comprar aqui, muy decepcionado. #decepcion",468,75,37,volverir comprar aqui decepcionado decepcion,Negativo
+259,usuario259,2025-01-28,Me siento decepcionado con la calidad. #decepcion,420,70,45,sentir decepcionado calidad decepcion,Negativo
+260,usuario260,2025-09-11,Me siento decepcionado con la calidad. #decepcion,456,19,17,sentir decepcionado calidad decepcion,Negativo
+261,usuario261,2025-06-25,Es frustrante que no funcione como esperaba. #frustracion,438,9,49,frustrante funcione esperar frustracion,Negativo
+262,usuario262,2025-08-08,No puedo creer lo mal que funciona esto. #colera,360,29,48,poder creer mal función colera,Negativo
+263,usuario263,2025-11-29,Me siento decepcionado con la calidad. #decepcion,383,9,28,sentir decepcionado calidad decepcion,Negativo
+264,usuario264,2025-09-29,"Esto es increible, estoy extasiado! #extasis",421,16,30,increible extasiado extasis,Positivo
+265,usuario265,2025-04-14,Es frustrante que no funcione como esperaba. #frustracion,268,4,45,frustrante funcione esperar frustracion,Negativo
+266,usuario266,2025-09-11,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",33,43,6,servicio excelente satisfecho satisfaccion,Positivo
+267,usuario267,2025-10-19,El peor servicio que he recibido. #colera,247,60,1,peor servicio recibido colera,Negativo
+268,usuario268,2025-04-22,"No volvere a comprar aqui, muy decepcionado. #decepcion",226,71,14,volverir comprar aqui decepcionado decepcion,Negativo
+269,usuario269,2025-10-20,Estoy muy feliz con este producto! #alegria,69,49,11,feliz producto alegrio,Positivo
+270,usuario270,2025-01-27,"Esto es increible, estoy extasiado! #extasis",312,54,20,increible extasiado extasis,Positivo
+271,usuario271,2025-11-26,Es frustrante que no funcione como esperaba. #frustracion,401,92,33,frustrante funcione esperar frustracion,Negativo
+272,usuario272,2025-11-09,Estoy muy feliz con este producto! #alegria,243,86,4,feliz producto alegrio,Positivo
+273,usuario273,2025-07-01,"Esto es increible, estoy extasiado! #extasis",253,7,45,increible extasiado extasis,Positivo
+274,usuario274,2025-03-15,El peor servicio que he recibido. #colera,452,10,0,peor servicio recibido colera,Negativo
+275,usuario275,2025-08-20,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",8,77,49,servicio excelente satisfecho satisfaccion,Positivo
+276,usuario276,2025-10-26,Me siento decepcionado con la calidad. #decepcion,316,35,5,sentir decepcionado calidad decepcion,Negativo
+277,usuario277,2025-05-17,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",353,6,45,experiencia maravilloso satisfecho satisfaccion,Positivo
+278,usuario278,2025-03-03,Estoy muy feliz con este producto! #alegria,160,30,10,feliz producto alegrio,Positivo
+279,usuario279,2025-01-12,El peor servicio que he recibido. #colera,338,53,44,peor servicio recibido colera,Negativo
+280,usuario280,2025-12-30,Es frustrante que no funcione como esperaba. #frustracion,199,99,14,frustrante funcione esperar frustracion,Negativo
+281,usuario281,2025-09-21,Me siento decepcionado con la calidad. #decepcion,386,12,35,sentir decepcionado calidad decepcion,Negativo
+282,usuario282,2025-05-25,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",262,22,31,servicio excelente satisfecho satisfaccion,Positivo
+283,usuario283,2025-08-28,El peor servicio que he recibido. #colera,119,67,44,peor servicio recibido colera,Negativo
+284,usuario284,2025-03-03,El peor servicio que he recibido. #colera,491,91,16,peor servicio recibido colera,Negativo
+285,usuario285,2025-01-30,Es frustrante que no funcione como esperaba. #frustracion,178,73,36,frustrante funcione esperar frustracion,Negativo
+286,usuario286,2025-12-10,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",199,58,34,experiencia maravilloso satisfecho satisfaccion,Positivo
+287,usuario287,2025-07-04,"Un producto realmente bueno, supero mis expectativas. #alegria",237,32,18,producto realmente bueno supero expectativa alegrio,Positivo
+288,usuario288,2025-06-29,"Esto es increible, estoy extasiado! #extasis",33,2,45,increible extasiado extasis,Positivo
+289,usuario289,2025-06-02,"No volvere a comprar aqui, muy decepcionado. #decepcion",89,75,9,volverir comprar aqui decepcionado decepcion,Negativo
+290,usuario290,2025-05-07,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",321,91,1,servicio excelente satisfecho satisfaccion,Positivo
+291,usuario291,2025-04-01,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",278,80,14,experiencia maravilloso satisfecho satisfaccion,Positivo
+292,usuario292,2025-08-11,No puedo creer lo mal que funciona esto. #colera,257,8,42,poder creer mal función colera,Negativo
+293,usuario293,2025-08-03,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",105,83,27,experiencia maravilloso satisfecho satisfaccion,Positivo
+294,usuario294,2025-04-20,El peor servicio que he recibido. #colera,115,94,2,peor servicio recibido colera,Negativo
+295,usuario295,2025-07-28,"Esto es increible, estoy extasiado! #extasis",358,9,49,increible extasiado extasis,Positivo
+296,usuario296,2025-09-20,Es frustrante que no funcione como esperaba. #frustracion,262,46,22,frustrante funcione esperar frustracion,Negativo
+297,usuario297,2025-08-06,Es frustrante que no funcione como esperaba. #frustracion,150,12,8,frustrante funcione esperar frustracion,Negativo
+298,usuario298,2025-06-24,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",300,45,17,servicio excelente satisfecho satisfaccion,Positivo
+299,usuario299,2025-10-28,Es frustrante que no funcione como esperaba. #frustracion,391,89,20,frustrante funcione esperar frustracion,Negativo
+300,usuario300,2025-11-26,El peor servicio que he recibido. #colera,330,68,49,peor servicio recibido colera,Negativo
+301,usuario301,2025-07-14,"Esto es increible, estoy extasiado! #extasis",353,36,23,increible extasiado extasis,Positivo
+302,usuario302,2025-10-24,El peor servicio que he recibido. #colera,76,94,48,peor servicio recibido colera,Negativo
+303,usuario303,2025-02-25,Estoy muy feliz con este producto! #alegria,353,84,50,feliz producto alegrio,Positivo
+304,usuario304,2025-01-04,"Un producto realmente bueno, supero mis expectativas. #alegria",420,77,33,producto realmente bueno supero expectativa alegrio,Positivo
+305,usuario305,2025-06-23,"Esto es increible, estoy extasiado! #extasis",357,62,36,increible extasiado extasis,Positivo
+306,usuario306,2025-02-21,"Un producto realmente bueno, supero mis expectativas. #alegria",294,66,6,producto realmente bueno supero expectativa alegrio,Positivo
+307,usuario307,2025-03-17,Me siento decepcionado con la calidad. #decepcion,137,79,16,sentir decepcionado calidad decepcion,Negativo
+308,usuario308,2025-07-06,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",293,3,4,experiencia maravilloso satisfecho satisfaccion,Positivo
+309,usuario309,2025-11-03,"Un producto realmente bueno, supero mis expectativas. #alegria",279,38,50,producto realmente bueno supero expectativa alegrio,Positivo
+310,usuario310,2025-08-13,El peor servicio que he recibido. #colera,241,37,5,peor servicio recibido colera,Negativo
+311,usuario311,2025-07-30,Es frustrante que no funcione como esperaba. #frustracion,141,97,39,frustrante funcione esperar frustracion,Negativo
+312,usuario312,2025-04-09,"Un producto realmente bueno, supero mis expectativas. #alegria",39,94,48,producto realmente bueno supero expectativa alegrio,Positivo
+313,usuario313,2025-07-31,El peor servicio que he recibido. #colera,82,5,6,peor servicio recibido colera,Negativo
+314,usuario314,2025-04-10,"Esto es increible, estoy extasiado! #extasis",59,7,26,increible extasiado extasis,Positivo
+315,usuario315,2025-07-27,"Un producto realmente bueno, supero mis expectativas. #alegria",54,19,9,producto realmente bueno supero expectativa alegrio,Positivo
+316,usuario316,2025-12-17,"No volvere a comprar aqui, muy decepcionado. #decepcion",51,13,29,volverir comprar aqui decepcionado decepcion,Negativo
+317,usuario317,2025-11-23,Me siento decepcionado con la calidad. #decepcion,167,37,39,sentir decepcionado calidad decepcion,Negativo
+318,usuario318,2025-06-01,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",179,67,28,experiencia maravilloso satisfecho satisfaccion,Positivo
+319,usuario319,2025-01-11,Me siento decepcionado con la calidad. #decepcion,209,2,28,sentir decepcionado calidad decepcion,Negativo
+320,usuario320,2025-01-16,Estoy muy feliz con este producto! #alegria,313,81,3,feliz producto alegrio,Positivo
+321,usuario321,2025-02-20,"Esto es increible, estoy extasiado! #extasis",363,11,41,increible extasiado extasis,Positivo
+322,usuario322,2025-11-13,El peor servicio que he recibido. #colera,360,67,5,peor servicio recibido colera,Negativo
+323,usuario323,2025-12-29,Estoy muy feliz con este producto! #alegria,273,100,18,feliz producto alegrio,Positivo
+324,usuario324,2025-05-07,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",264,58,47,servicio excelente satisfecho satisfaccion,Positivo
+325,usuario325,2025-08-30,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",15,23,49,experiencia maravilloso satisfecho satisfaccion,Positivo
+326,usuario326,2025-03-19,Es frustrante que no funcione como esperaba. #frustracion,493,54,42,frustrante funcione esperar frustracion,Negativo
+327,usuario327,2025-02-01,"Esto es increible, estoy extasiado! #extasis",213,73,43,increible extasiado extasis,Positivo
+328,usuario328,2025-05-03,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",252,77,22,servicio excelente satisfecho satisfaccion,Positivo
+329,usuario329,2025-05-26,"Un producto realmente bueno, supero mis expectativas. #alegria",496,85,49,producto realmente bueno supero expectativa alegrio,Positivo
+330,usuario330,2025-09-27,El peor servicio que he recibido. #colera,371,57,11,peor servicio recibido colera,Negativo
+331,usuario331,2025-02-03,"Un producto realmente bueno, supero mis expectativas. #alegria",446,66,34,producto realmente bueno supero expectativa alegrio,Positivo
+332,usuario332,2025-09-03,Me siento decepcionado con la calidad. #decepcion,442,97,26,sentir decepcionado calidad decepcion,Negativo
+333,usuario333,2025-05-29,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",333,10,27,servicio excelente satisfecho satisfaccion,Positivo
+334,usuario334,2025-04-09,"Esto es increible, estoy extasiado! #extasis",187,64,7,increible extasiado extasis,Positivo
+335,usuario335,2025-12-26,Me siento decepcionado con la calidad. #decepcion,298,84,19,sentir decepcionado calidad decepcion,Negativo
+336,usuario336,2025-03-01,Estoy muy feliz con este producto! #alegria,417,7,16,feliz producto alegrio,Positivo
+337,usuario337,2025-06-18,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",414,32,26,servicio excelente satisfecho satisfaccion,Positivo
+338,usuario338,2025-05-31,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",498,30,46,servicio excelente satisfecho satisfaccion,Positivo
+339,usuario339,2025-07-26,"No volvere a comprar aqui, muy decepcionado. #decepcion",356,73,25,volverir comprar aqui decepcionado decepcion,Negativo
+340,usuario340,2025-08-21,No puedo creer lo mal que funciona esto. #colera,168,84,22,poder creer mal función colera,Negativo
+341,usuario341,2025-07-03,"No volvere a comprar aqui, muy decepcionado. #decepcion",489,60,42,volverir comprar aqui decepcionado decepcion,Negativo
+342,usuario342,2025-09-17,Es frustrante que no funcione como esperaba. #frustracion,103,41,3,frustrante funcione esperar frustracion,Negativo
+343,usuario343,2025-01-30,No puedo creer lo mal que funciona esto. #colera,408,38,29,poder creer mal función colera,Negativo
+344,usuario344,2025-07-08,Es frustrante que no funcione como esperaba. #frustracion,470,28,38,frustrante funcione esperar frustracion,Negativo
+345,usuario345,2025-02-21,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",69,51,4,servicio excelente satisfecho satisfaccion,Positivo
+346,usuario346,2025-09-10,"Un producto realmente bueno, supero mis expectativas. #alegria",143,50,23,producto realmente bueno supero expectativa alegrio,Positivo
+347,usuario347,2025-12-23,Estoy muy feliz con este producto! #alegria,301,61,40,feliz producto alegrio,Positivo
+348,usuario348,2025-09-26,Me siento decepcionado con la calidad. #decepcion,138,98,47,sentir decepcionado calidad decepcion,Negativo
+349,usuario349,2025-11-27,El peor servicio que he recibido. #colera,95,53,18,peor servicio recibido colera,Negativo
+350,usuario350,2025-06-09,Me siento decepcionado con la calidad. #decepcion,430,14,21,sentir decepcionado calidad decepcion,Negativo
+351,usuario351,2025-12-05,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",475,45,46,servicio excelente satisfecho satisfaccion,Positivo
+352,usuario352,2025-01-25,El peor servicio que he recibido. #colera,204,26,19,peor servicio recibido colera,Negativo
+353,usuario353,2025-06-16,"Esto es increible, estoy extasiado! #extasis",211,72,15,increible extasiado extasis,Positivo
+354,usuario354,2025-05-16,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",412,68,44,experiencia maravilloso satisfecho satisfaccion,Positivo
+355,usuario355,2025-11-19,Me siento decepcionado con la calidad. #decepcion,410,50,28,sentir decepcionado calidad decepcion,Negativo
+356,usuario356,2025-04-06,El peor servicio que he recibido. #colera,258,60,30,peor servicio recibido colera,Negativo
+357,usuario357,2025-07-12,Me siento decepcionado con la calidad. #decepcion,126,85,38,sentir decepcionado calidad decepcion,Negativo
+358,usuario358,2025-05-04,"Esto es increible, estoy extasiado! #extasis",274,94,23,increible extasiado extasis,Positivo
+359,usuario359,2025-04-08,"Un producto realmente bueno, supero mis expectativas. #alegria",123,6,3,producto realmente bueno supero expectativa alegrio,Positivo
+360,usuario360,2025-03-30,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",184,29,12,servicio excelente satisfecho satisfaccion,Positivo
+361,usuario361,2025-01-13,"No volvere a comprar aqui, muy decepcionado. #decepcion",171,42,44,volverir comprar aqui decepcionado decepcion,Negativo
+362,usuario362,2025-03-14,No puedo creer lo mal que funciona esto. #colera,470,60,30,poder creer mal función colera,Negativo
+363,usuario363,2025-11-13,No puedo creer lo mal que funciona esto. #colera,425,36,2,poder creer mal función colera,Negativo
+364,usuario364,2025-08-12,"No volvere a comprar aqui, muy decepcionado. #decepcion",331,15,49,volverir comprar aqui decepcionado decepcion,Negativo
+365,usuario365,2025-02-28,"No volvere a comprar aqui, muy decepcionado. #decepcion",178,3,35,volverir comprar aqui decepcionado decepcion,Negativo
+366,usuario366,2025-12-14,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",454,9,19,experiencia maravilloso satisfecho satisfaccion,Positivo
+367,usuario367,2025-08-19,"Un producto realmente bueno, supero mis expectativas. #alegria",394,46,13,producto realmente bueno supero expectativa alegrio,Positivo
+368,usuario368,2025-10-19,Es frustrante que no funcione como esperaba. #frustracion,340,18,38,frustrante funcione esperar frustracion,Negativo
+369,usuario369,2025-05-14,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",392,94,8,servicio excelente satisfecho satisfaccion,Positivo
+370,usuario370,2025-05-27,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",458,46,25,experiencia maravilloso satisfecho satisfaccion,Positivo
+371,usuario371,2025-07-29,Es frustrante que no funcione como esperaba. #frustracion,307,86,16,frustrante funcione esperar frustracion,Negativo
+372,usuario372,2025-10-04,"No volvere a comprar aqui, muy decepcionado. #decepcion",356,70,39,volverir comprar aqui decepcionado decepcion,Negativo
+373,usuario373,2025-05-18,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",462,22,3,servicio excelente satisfecho satisfaccion,Positivo
+374,usuario374,2025-07-19,Estoy muy feliz con este producto! #alegria,309,27,32,feliz producto alegrio,Positivo
+375,usuario375,2025-03-17,Estoy muy feliz con este producto! #alegria,209,17,4,feliz producto alegrio,Positivo
+376,usuario376,2025-06-01,No puedo creer lo mal que funciona esto. #colera,340,16,27,poder creer mal función colera,Negativo
+377,usuario377,2025-05-12,"No volvere a comprar aqui, muy decepcionado. #decepcion",407,28,0,volverir comprar aqui decepcionado decepcion,Negativo
+378,usuario378,2025-08-26,Me siento decepcionado con la calidad. #decepcion,310,96,48,sentir decepcionado calidad decepcion,Negativo
+379,usuario379,2025-05-11,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",360,63,35,servicio excelente satisfecho satisfaccion,Positivo
+380,usuario380,2025-03-27,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",418,25,47,servicio excelente satisfecho satisfaccion,Positivo
+381,usuario381,2025-01-19,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",154,20,16,servicio excelente satisfecho satisfaccion,Positivo
+382,usuario382,2025-04-09,Me siento decepcionado con la calidad. #decepcion,462,55,8,sentir decepcionado calidad decepcion,Negativo
+383,usuario383,2025-05-05,El peor servicio que he recibido. #colera,123,26,13,peor servicio recibido colera,Negativo
+384,usuario384,2025-10-30,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",441,100,7,servicio excelente satisfecho satisfaccion,Positivo
+385,usuario385,2025-04-17,"No volvere a comprar aqui, muy decepcionado. #decepcion",323,42,42,volverir comprar aqui decepcionado decepcion,Negativo
+386,usuario386,2025-10-16,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",288,26,21,experiencia maravilloso satisfecho satisfaccion,Positivo
+387,usuario387,2025-03-26,No puedo creer lo mal que funciona esto. #colera,21,60,38,poder creer mal función colera,Negativo
+388,usuario388,2025-08-13,No puedo creer lo mal que funciona esto. #colera,65,92,46,poder creer mal función colera,Negativo
+389,usuario389,2025-03-07,"No volvere a comprar aqui, muy decepcionado. #decepcion",33,72,45,volverir comprar aqui decepcionado decepcion,Negativo
+390,usuario390,2025-09-25,"Esto es increible, estoy extasiado! #extasis",471,17,35,increible extasiado extasis,Positivo
+391,usuario391,2025-07-05,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",68,84,9,servicio excelente satisfecho satisfaccion,Positivo
+392,usuario392,2025-01-19,"No volvere a comprar aqui, muy decepcionado. #decepcion",136,9,14,volverir comprar aqui decepcionado decepcion,Negativo
+393,usuario393,2025-02-23,No puedo creer lo mal que funciona esto. #colera,495,14,47,poder creer mal función colera,Negativo
+394,usuario394,2025-02-06,No puedo creer lo mal que funciona esto. #colera,350,97,38,poder creer mal función colera,Negativo
+395,usuario395,2025-03-06,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",440,62,40,servicio excelente satisfecho satisfaccion,Positivo
+396,usuario396,2025-06-30,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",436,97,24,experiencia maravilloso satisfecho satisfaccion,Positivo
+397,usuario397,2025-07-02,"No volvere a comprar aqui, muy decepcionado. #decepcion",415,81,34,volverir comprar aqui decepcionado decepcion,Negativo
+398,usuario398,2025-11-20,Estoy muy feliz con este producto! #alegria,33,9,10,feliz producto alegrio,Positivo
+399,usuario399,2025-06-04,Estoy muy feliz con este producto! #alegria,135,70,13,feliz producto alegrio,Positivo
+400,usuario400,2025-09-27,Estoy muy feliz con este producto! #alegria,135,52,26,feliz producto alegrio,Positivo
+401,usuario401,2025-08-03,El peor servicio que he recibido. #colera,195,66,0,peor servicio recibido colera,Negativo
+402,usuario402,2025-06-28,"No volvere a comprar aqui, muy decepcionado. #decepcion",403,98,38,volverir comprar aqui decepcionado decepcion,Negativo
+403,usuario403,2025-03-09,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",78,51,42,servicio excelente satisfecho satisfaccion,Positivo
+404,usuario404,2025-11-01,Estoy muy feliz con este producto! #alegria,406,63,10,feliz producto alegrio,Positivo
+405,usuario405,2025-06-09,"Un producto realmente bueno, supero mis expectativas. #alegria",72,95,48,producto realmente bueno supero expectativa alegrio,Positivo
+406,usuario406,2025-06-06,Es frustrante que no funcione como esperaba. #frustracion,324,3,8,frustrante funcione esperar frustracion,Negativo
+407,usuario407,2025-08-07,Estoy muy feliz con este producto! #alegria,473,57,38,feliz producto alegrio,Positivo
+408,usuario408,2025-04-15,Es frustrante que no funcione como esperaba. #frustracion,93,2,18,frustrante funcione esperar frustracion,Negativo
+409,usuario409,2025-07-31,Estoy muy feliz con este producto! #alegria,415,93,46,feliz producto alegrio,Positivo
+410,usuario410,2025-12-24,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",16,3,36,experiencia maravilloso satisfecho satisfaccion,Positivo
+411,usuario411,2025-05-14,El peor servicio que he recibido. #colera,40,72,37,peor servicio recibido colera,Negativo
+412,usuario412,2025-06-26,Es frustrante que no funcione como esperaba. #frustracion,3,64,6,frustrante funcione esperar frustracion,Negativo
+413,usuario413,2025-01-08,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",76,11,41,servicio excelente satisfecho satisfaccion,Positivo
+414,usuario414,2025-06-06,No puedo creer lo mal que funciona esto. #colera,360,86,4,poder creer mal función colera,Negativo
+415,usuario415,2025-02-04,"No volvere a comprar aqui, muy decepcionado. #decepcion",67,2,13,volverir comprar aqui decepcionado decepcion,Negativo
+416,usuario416,2025-11-17,El peor servicio que he recibido. #colera,192,30,43,peor servicio recibido colera,Negativo
+417,usuario417,2025-04-26,Es frustrante que no funcione como esperaba. #frustracion,294,12,41,frustrante funcione esperar frustracion,Negativo
+418,usuario418,2025-09-29,"No volvere a comprar aqui, muy decepcionado. #decepcion",368,81,4,volverir comprar aqui decepcionado decepcion,Negativo
+419,usuario419,2025-03-24,No puedo creer lo mal que funciona esto. #colera,15,49,25,poder creer mal función colera,Negativo
+420,usuario420,2025-06-21,Estoy muy feliz con este producto! #alegria,180,57,28,feliz producto alegrio,Positivo
+421,usuario421,2025-06-08,Me siento decepcionado con la calidad. #decepcion,303,9,14,sentir decepcionado calidad decepcion,Negativo
+422,usuario422,2025-03-26,Me siento decepcionado con la calidad. #decepcion,339,93,3,sentir decepcionado calidad decepcion,Negativo
+423,usuario423,2025-03-06,No puedo creer lo mal que funciona esto. #colera,198,94,10,poder creer mal función colera,Negativo
+424,usuario424,2025-07-10,No puedo creer lo mal que funciona esto. #colera,45,60,23,poder creer mal función colera,Negativo
+425,usuario425,2025-02-06,Es frustrante que no funcione como esperaba. #frustracion,322,77,11,frustrante funcione esperar frustracion,Negativo
+426,usuario426,2025-06-30,"Un producto realmente bueno, supero mis expectativas. #alegria",358,66,22,producto realmente bueno supero expectativa alegrio,Positivo
+427,usuario427,2025-05-11,Es frustrante que no funcione como esperaba. #frustracion,273,59,11,frustrante funcione esperar frustracion,Negativo
+428,usuario428,2025-08-06,Estoy muy feliz con este producto! #alegria,90,32,6,feliz producto alegrio,Positivo
+429,usuario429,2025-03-01,No puedo creer lo mal que funciona esto. #colera,48,69,43,poder creer mal función colera,Negativo
+430,usuario430,2025-01-24,"Un producto realmente bueno, supero mis expectativas. #alegria",423,77,8,producto realmente bueno supero expectativa alegrio,Positivo
+431,usuario431,2025-11-26,El peor servicio que he recibido. #colera,482,82,31,peor servicio recibido colera,Negativo
+432,usuario432,2025-04-14,"Un producto realmente bueno, supero mis expectativas. #alegria",167,43,1,producto realmente bueno supero expectativa alegrio,Positivo
+433,usuario433,2025-01-16,No puedo creer lo mal que funciona esto. #colera,393,31,43,poder creer mal función colera,Negativo
+434,usuario434,2025-09-08,"Esto es increible, estoy extasiado! #extasis",351,18,22,increible extasiado extasis,Positivo
+435,usuario435,2025-12-10,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",172,57,49,experiencia maravilloso satisfecho satisfaccion,Positivo
+436,usuario436,2025-01-01,Estoy muy feliz con este producto! #alegria,279,69,33,feliz producto alegrio,Positivo
+437,usuario437,2025-10-18,El peor servicio que he recibido. #colera,117,76,3,peor servicio recibido colera,Negativo
+438,usuario438,2025-06-01,"Un producto realmente bueno, supero mis expectativas. #alegria",407,95,27,producto realmente bueno supero expectativa alegrio,Positivo
+439,usuario439,2025-04-23,No puedo creer lo mal que funciona esto. #colera,310,42,43,poder creer mal función colera,Negativo
+440,usuario440,2025-11-28,"Un producto realmente bueno, supero mis expectativas. #alegria",85,52,34,producto realmente bueno supero expectativa alegrio,Positivo
+441,usuario441,2025-10-05,"No volvere a comprar aqui, muy decepcionado. #decepcion",340,92,17,volverir comprar aqui decepcionado decepcion,Negativo
+442,usuario442,2025-08-19,"Esto es increible, estoy extasiado! #extasis",18,51,50,increible extasiado extasis,Positivo
+443,usuario443,2025-11-04,Estoy muy feliz con este producto! #alegria,140,20,7,feliz producto alegrio,Positivo
+444,usuario444,2025-12-08,No puedo creer lo mal que funciona esto. #colera,326,84,42,poder creer mal función colera,Negativo
+445,usuario445,2025-02-06,Es frustrante que no funcione como esperaba. #frustracion,474,89,44,frustrante funcione esperar frustracion,Negativo
+446,usuario446,2025-10-09,No puedo creer lo mal que funciona esto. #colera,180,58,25,poder creer mal función colera,Negativo
+447,usuario447,2025-06-02,No puedo creer lo mal que funciona esto. #colera,452,4,50,poder creer mal función colera,Negativo
+448,usuario448,2025-02-14,"Esto es increible, estoy extasiado! #extasis",79,35,30,increible extasiado extasis,Positivo
+449,usuario449,2025-12-18,"No volvere a comprar aqui, muy decepcionado. #decepcion",87,15,20,volverir comprar aqui decepcionado decepcion,Negativo
+450,usuario450,2025-06-15,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",431,42,48,servicio excelente satisfecho satisfaccion,Positivo
+451,usuario451,2025-11-12,"No volvere a comprar aqui, muy decepcionado. #decepcion",245,84,3,volverir comprar aqui decepcionado decepcion,Negativo
+452,usuario452,2025-05-13,"Esto es increible, estoy extasiado! #extasis",28,61,50,increible extasiado extasis,Positivo
+453,usuario453,2025-04-28,No puedo creer lo mal que funciona esto. #colera,304,1,48,poder creer mal función colera,Negativo
+454,usuario454,2025-12-03,Estoy muy feliz con este producto! #alegria,471,76,36,feliz producto alegrio,Positivo
+455,usuario455,2025-10-26,"Esto es increible, estoy extasiado! #extasis",35,33,22,increible extasiado extasis,Positivo
+456,usuario456,2025-11-29,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",89,42,17,experiencia maravilloso satisfecho satisfaccion,Positivo
+457,usuario457,2025-08-24,Estoy muy feliz con este producto! #alegria,30,65,4,feliz producto alegrio,Positivo
+458,usuario458,2025-08-20,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",50,87,14,experiencia maravilloso satisfecho satisfaccion,Positivo
+459,usuario459,2025-03-24,Estoy muy feliz con este producto! #alegria,346,85,21,feliz producto alegrio,Positivo
+460,usuario460,2025-10-24,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",100,6,13,experiencia maravilloso satisfecho satisfaccion,Positivo
+461,usuario461,2025-05-27,"No volvere a comprar aqui, muy decepcionado. #decepcion",317,57,12,volverir comprar aqui decepcionado decepcion,Negativo
+462,usuario462,2025-02-10,"Esto es increible, estoy extasiado! #extasis",26,4,18,increible extasiado extasis,Positivo
+463,usuario463,2025-08-03,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",347,65,33,servicio excelente satisfecho satisfaccion,Positivo
+464,usuario464,2025-03-14,"No volvere a comprar aqui, muy decepcionado. #decepcion",134,29,17,volverir comprar aqui decepcionado decepcion,Negativo
+465,usuario465,2025-10-26,Me siento decepcionado con la calidad. #decepcion,122,82,31,sentir decepcionado calidad decepcion,Negativo
+466,usuario466,2025-03-11,Me siento decepcionado con la calidad. #decepcion,362,31,6,sentir decepcionado calidad decepcion,Negativo
+467,usuario467,2025-05-11,"Esto es increible, estoy extasiado! #extasis",254,62,30,increible extasiado extasis,Positivo
+468,usuario468,2025-01-20,Es frustrante que no funcione como esperaba. #frustracion,335,29,11,frustrante funcione esperar frustracion,Negativo
+469,usuario469,2025-04-28,"Un producto realmente bueno, supero mis expectativas. #alegria",392,82,10,producto realmente bueno supero expectativa alegrio,Positivo
+470,usuario470,2025-12-12,El peor servicio que he recibido. #colera,283,70,23,peor servicio recibido colera,Negativo
+471,usuario471,2025-07-03,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",137,38,0,experiencia maravilloso satisfecho satisfaccion,Positivo
+472,usuario472,2025-03-23,Estoy muy feliz con este producto! #alegria,480,2,26,feliz producto alegrio,Positivo
+473,usuario473,2025-01-29,Me siento decepcionado con la calidad. #decepcion,108,6,3,sentir decepcionado calidad decepcion,Negativo
+474,usuario474,2025-09-01,No puedo creer lo mal que funciona esto. #colera,10,88,30,poder creer mal función colera,Negativo
+475,usuario475,2025-10-21,"Un producto realmente bueno, supero mis expectativas. #alegria",34,5,33,producto realmente bueno supero expectativa alegrio,Positivo
+476,usuario476,2025-05-12,El peor servicio que he recibido. #colera,397,47,27,peor servicio recibido colera,Negativo
+477,usuario477,2025-06-14,No puedo creer lo mal que funciona esto. #colera,416,65,34,poder creer mal función colera,Negativo
+478,usuario478,2025-07-17,Me siento decepcionado con la calidad. #decepcion,214,18,47,sentir decepcionado calidad decepcion,Negativo
+479,usuario479,2025-07-10,Estoy muy feliz con este producto! #alegria,22,55,39,feliz producto alegrio,Positivo
+480,usuario480,2025-11-12,"No volvere a comprar aqui, muy decepcionado. #decepcion",454,21,44,volverir comprar aqui decepcionado decepcion,Negativo
+481,usuario481,2025-09-11,"Esto es increible, estoy extasiado! #extasis",11,3,40,increible extasiado extasis,Positivo
+482,usuario482,2025-02-13,Estoy muy feliz con este producto! #alegria,316,38,8,feliz producto alegrio,Positivo
+483,usuario483,2025-12-04,El peor servicio que he recibido. #colera,2,33,2,peor servicio recibido colera,Negativo
+484,usuario484,2025-11-17,"Un producto realmente bueno, supero mis expectativas. #alegria",13,49,20,producto realmente bueno supero expectativa alegrio,Positivo
+485,usuario485,2025-08-25,Es frustrante que no funcione como esperaba. #frustracion,52,20,31,frustrante funcione esperar frustracion,Negativo
+486,usuario486,2025-02-11,"Esto es increible, estoy extasiado! #extasis",381,47,37,increible extasiado extasis,Positivo
+487,usuario487,2025-05-28,El peor servicio que he recibido. #colera,350,98,3,peor servicio recibido colera,Negativo
+488,usuario488,2025-07-24,"No volvere a comprar aqui, muy decepcionado. #decepcion",195,43,31,volverir comprar aqui decepcionado decepcion,Negativo
+489,usuario489,2025-06-11,Es frustrante que no funcione como esperaba. #frustracion,95,7,4,frustrante funcione esperar frustracion,Negativo
+490,usuario490,2025-04-16,No puedo creer lo mal que funciona esto. #colera,11,72,2,poder creer mal función colera,Negativo
+491,usuario491,2025-11-08,No puedo creer lo mal que funciona esto. #colera,258,91,40,poder creer mal función colera,Negativo
+492,usuario492,2025-10-10,"Esto es increible, estoy extasiado! #extasis",335,92,49,increible extasiado extasis,Positivo
+493,usuario493,2025-12-19,Estoy muy feliz con este producto! #alegria,251,92,36,feliz producto alegrio,Positivo
+494,usuario494,2025-04-20,"Un producto realmente bueno, supero mis expectativas. #alegria",328,79,32,producto realmente bueno supero expectativa alegrio,Positivo
+495,usuario495,2025-07-01,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",322,76,30,servicio excelente satisfecho satisfaccion,Positivo
+496,usuario496,2025-06-04,El peor servicio que he recibido. #colera,169,73,28,peor servicio recibido colera,Negativo
+497,usuario497,2025-05-01,El peor servicio que he recibido. #colera,448,17,44,peor servicio recibido colera,Negativo
+498,usuario498,2025-03-06,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",221,40,15,servicio excelente satisfecho satisfaccion,Positivo
+499,usuario499,2025-10-02,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",212,37,23,experiencia maravilloso satisfecho satisfaccion,Positivo
+500,usuario500,2025-09-09,"Un producto realmente bueno, supero mis expectativas. #alegria",447,68,42,producto realmente bueno supero expectativa alegrio,Positivo
+501,usuario501,2025-11-10,Estoy muy feliz con este producto! #alegria,475,34,50,feliz producto alegrio,Positivo
+502,usuario502,2025-11-28,Estoy muy feliz con este producto! #alegria,86,97,45,feliz producto alegrio,Positivo
+503,usuario503,2025-09-19,Me siento decepcionado con la calidad. #decepcion,479,31,4,sentir decepcionado calidad decepcion,Negativo
+504,usuario504,2025-01-18,"Esto es increible, estoy extasiado! #extasis",275,82,37,increible extasiado extasis,Positivo
+505,usuario505,2025-05-21,Estoy muy feliz con este producto! #alegria,304,88,31,feliz producto alegrio,Positivo
+506,usuario506,2025-05-29,"No volvere a comprar aqui, muy decepcionado. #decepcion",135,63,33,volverir comprar aqui decepcionado decepcion,Negativo
+507,usuario507,2025-10-12,Me siento decepcionado con la calidad. #decepcion,27,17,9,sentir decepcionado calidad decepcion,Negativo
+508,usuario508,2025-02-21,No puedo creer lo mal que funciona esto. #colera,162,11,45,poder creer mal función colera,Negativo
+509,usuario509,2025-10-05,"No volvere a comprar aqui, muy decepcionado. #decepcion",194,54,22,volverir comprar aqui decepcionado decepcion,Negativo
+510,usuario510,2025-05-17,Me siento decepcionado con la calidad. #decepcion,395,48,12,sentir decepcionado calidad decepcion,Negativo
+511,usuario511,2025-02-11,"Un producto realmente bueno, supero mis expectativas. #alegria",449,59,5,producto realmente bueno supero expectativa alegrio,Positivo
+512,usuario512,2025-10-02,"Un producto realmente bueno, supero mis expectativas. #alegria",29,44,29,producto realmente bueno supero expectativa alegrio,Positivo
+513,usuario513,2025-03-16,"No volvere a comprar aqui, muy decepcionado. #decepcion",235,70,16,volverir comprar aqui decepcionado decepcion,Negativo
+514,usuario514,2025-09-26,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",447,63,24,servicio excelente satisfecho satisfaccion,Positivo
+515,usuario515,2025-07-10,Es frustrante que no funcione como esperaba. #frustracion,492,13,14,frustrante funcione esperar frustracion,Negativo
+516,usuario516,2025-10-02,Me siento decepcionado con la calidad. #decepcion,457,31,9,sentir decepcionado calidad decepcion,Negativo
+517,usuario517,2025-04-16,Me siento decepcionado con la calidad. #decepcion,500,100,20,sentir decepcionado calidad decepcion,Negativo
+518,usuario518,2025-11-16,El peor servicio que he recibido. #colera,285,60,48,peor servicio recibido colera,Negativo
+519,usuario519,2025-09-19,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",94,25,2,experiencia maravilloso satisfecho satisfaccion,Positivo
+520,usuario520,2025-07-05,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",370,58,37,experiencia maravilloso satisfecho satisfaccion,Positivo
+521,usuario521,2025-11-21,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",469,34,25,servicio excelente satisfecho satisfaccion,Positivo
+522,usuario522,2025-01-15,"No volvere a comprar aqui, muy decepcionado. #decepcion",246,21,4,volverir comprar aqui decepcionado decepcion,Negativo
+523,usuario523,2025-05-13,"Esto es increible, estoy extasiado! #extasis",413,27,49,increible extasiado extasis,Positivo
+524,usuario524,2025-05-25,"Un producto realmente bueno, supero mis expectativas. #alegria",104,11,11,producto realmente bueno supero expectativa alegrio,Positivo
+525,usuario525,2025-07-12,Estoy muy feliz con este producto! #alegria,284,1,16,feliz producto alegrio,Positivo
+526,usuario526,2025-10-20,Estoy muy feliz con este producto! #alegria,486,97,21,feliz producto alegrio,Positivo
+527,usuario527,2025-12-21,El peor servicio que he recibido. #colera,221,89,25,peor servicio recibido colera,Negativo
+528,usuario528,2025-01-31,El peor servicio que he recibido. #colera,328,74,6,peor servicio recibido colera,Negativo
+529,usuario529,2025-11-24,Estoy muy feliz con este producto! #alegria,312,83,9,feliz producto alegrio,Positivo
+530,usuario530,2025-10-17,Me siento decepcionado con la calidad. #decepcion,161,91,11,sentir decepcionado calidad decepcion,Negativo
+531,usuario531,2025-11-20,Me siento decepcionado con la calidad. #decepcion,364,37,46,sentir decepcionado calidad decepcion,Negativo
+532,usuario532,2025-11-07,"Un producto realmente bueno, supero mis expectativas. #alegria",9,92,28,producto realmente bueno supero expectativa alegrio,Positivo
+533,usuario533,2025-01-24,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",235,91,45,experiencia maravilloso satisfecho satisfaccion,Positivo
+534,usuario534,2025-07-09,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",265,35,24,experiencia maravilloso satisfecho satisfaccion,Positivo
+535,usuario535,2025-09-20,"No volvere a comprar aqui, muy decepcionado. #decepcion",56,25,24,volverir comprar aqui decepcionado decepcion,Negativo
+536,usuario536,2025-05-15,El peor servicio que he recibido. #colera,316,90,20,peor servicio recibido colera,Negativo
+537,usuario537,2025-11-26,"Esto es increible, estoy extasiado! #extasis",301,41,6,increible extasiado extasis,Positivo
+538,usuario538,2025-03-31,Me siento decepcionado con la calidad. #decepcion,385,17,24,sentir decepcionado calidad decepcion,Negativo
+539,usuario539,2025-10-12,Es frustrante que no funcione como esperaba. #frustracion,215,0,30,frustrante funcione esperar frustracion,Negativo
+540,usuario540,2025-10-10,"No volvere a comprar aqui, muy decepcionado. #decepcion",156,76,22,volverir comprar aqui decepcionado decepcion,Negativo
+541,usuario541,2025-11-19,Me siento decepcionado con la calidad. #decepcion,321,50,40,sentir decepcionado calidad decepcion,Negativo
+542,usuario542,2025-06-12,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",444,95,15,experiencia maravilloso satisfecho satisfaccion,Positivo
+543,usuario543,2025-07-03,Es frustrante que no funcione como esperaba. #frustracion,18,73,30,frustrante funcione esperar frustracion,Negativo
+544,usuario544,2025-12-06,Es frustrante que no funcione como esperaba. #frustracion,290,34,23,frustrante funcione esperar frustracion,Negativo
+545,usuario545,2025-08-04,"No volvere a comprar aqui, muy decepcionado. #decepcion",25,99,14,volverir comprar aqui decepcionado decepcion,Negativo
+546,usuario546,2025-05-12,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",294,97,14,experiencia maravilloso satisfecho satisfaccion,Positivo
+547,usuario547,2025-12-08,No puedo creer lo mal que funciona esto. #colera,16,57,0,poder creer mal función colera,Negativo
+548,usuario548,2025-04-29,El peor servicio que he recibido. #colera,143,51,0,peor servicio recibido colera,Negativo
+549,usuario549,2025-03-23,"No volvere a comprar aqui, muy decepcionado. #decepcion",447,93,15,volverir comprar aqui decepcionado decepcion,Negativo
+550,usuario550,2025-05-16,Es frustrante que no funcione como esperaba. #frustracion,345,22,9,frustrante funcione esperar frustracion,Negativo
+551,usuario551,2025-10-15,"Un producto realmente bueno, supero mis expectativas. #alegria",104,52,30,producto realmente bueno supero expectativa alegrio,Positivo
+552,usuario552,2025-12-12,El peor servicio que he recibido. #colera,305,70,35,peor servicio recibido colera,Negativo
+553,usuario553,2025-07-13,"Un producto realmente bueno, supero mis expectativas. #alegria",87,85,1,producto realmente bueno supero expectativa alegrio,Positivo
+554,usuario554,2025-12-27,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",41,31,37,experiencia maravilloso satisfecho satisfaccion,Positivo
+555,usuario555,2025-05-06,El peor servicio que he recibido. #colera,79,92,34,peor servicio recibido colera,Negativo
+556,usuario556,2025-11-27,"Un producto realmente bueno, supero mis expectativas. #alegria",212,53,11,producto realmente bueno supero expectativa alegrio,Positivo
+557,usuario557,2025-10-04,"No volvere a comprar aqui, muy decepcionado. #decepcion",96,20,12,volverir comprar aqui decepcionado decepcion,Negativo
+558,usuario558,2025-05-11,"Esto es increible, estoy extasiado! #extasis",144,94,27,increible extasiado extasis,Positivo
+559,usuario559,2025-11-16,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",44,21,21,experiencia maravilloso satisfecho satisfaccion,Positivo
+560,usuario560,2025-05-09,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",479,91,36,experiencia maravilloso satisfecho satisfaccion,Positivo
+561,usuario561,2025-08-18,Estoy muy feliz con este producto! #alegria,491,21,47,feliz producto alegrio,Positivo
+562,usuario562,2025-08-14,No puedo creer lo mal que funciona esto. #colera,34,74,11,poder creer mal función colera,Negativo
+563,usuario563,2025-06-04,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",459,54,22,servicio excelente satisfecho satisfaccion,Positivo
+564,usuario564,2025-07-15,"No volvere a comprar aqui, muy decepcionado. #decepcion",346,45,39,volverir comprar aqui decepcionado decepcion,Negativo
+565,usuario565,2025-07-01,No puedo creer lo mal que funciona esto. #colera,22,30,13,poder creer mal función colera,Negativo
+566,usuario566,2025-03-18,Es frustrante que no funcione como esperaba. #frustracion,193,34,31,frustrante funcione esperar frustracion,Negativo
+567,usuario567,2025-07-24,"Un producto realmente bueno, supero mis expectativas. #alegria",220,79,17,producto realmente bueno supero expectativa alegrio,Positivo
+568,usuario568,2025-11-29,Me siento decepcionado con la calidad. #decepcion,321,31,28,sentir decepcionado calidad decepcion,Negativo
+569,usuario569,2025-10-07,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",178,42,38,experiencia maravilloso satisfecho satisfaccion,Positivo
+570,usuario570,2025-12-15,No puedo creer lo mal que funciona esto. #colera,232,53,14,poder creer mal función colera,Negativo
+571,usuario571,2025-08-27,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",151,4,45,experiencia maravilloso satisfecho satisfaccion,Positivo
+572,usuario572,2025-01-07,"Un producto realmente bueno, supero mis expectativas. #alegria",20,50,32,producto realmente bueno supero expectativa alegrio,Positivo
+573,usuario573,2025-02-28,Me siento decepcionado con la calidad. #decepcion,292,54,50,sentir decepcionado calidad decepcion,Negativo
+574,usuario574,2025-10-16,"Esto es increible, estoy extasiado! #extasis",356,98,39,increible extasiado extasis,Positivo
+575,usuario575,2025-07-11,"Un producto realmente bueno, supero mis expectativas. #alegria",370,38,26,producto realmente bueno supero expectativa alegrio,Positivo
+576,usuario576,2025-06-06,"No volvere a comprar aqui, muy decepcionado. #decepcion",482,42,6,volverir comprar aqui decepcionado decepcion,Negativo
+577,usuario577,2025-05-26,No puedo creer lo mal que funciona esto. #colera,189,92,35,poder creer mal función colera,Negativo
+578,usuario578,2025-07-06,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",81,40,5,experiencia maravilloso satisfecho satisfaccion,Positivo
+579,usuario579,2025-05-11,Estoy muy feliz con este producto! #alegria,426,61,50,feliz producto alegrio,Positivo
+580,usuario580,2025-02-19,Estoy muy feliz con este producto! #alegria,382,11,22,feliz producto alegrio,Positivo
+581,usuario581,2025-10-23,"Un producto realmente bueno, supero mis expectativas. #alegria",21,91,2,producto realmente bueno supero expectativa alegrio,Positivo
+582,usuario582,2025-11-10,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",261,4,4,servicio excelente satisfecho satisfaccion,Positivo
+583,usuario583,2025-06-01,"Un producto realmente bueno, supero mis expectativas. #alegria",392,22,14,producto realmente bueno supero expectativa alegrio,Positivo
+584,usuario584,2025-08-18,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",384,28,36,servicio excelente satisfecho satisfaccion,Positivo
+585,usuario585,2025-04-07,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",29,90,43,experiencia maravilloso satisfecho satisfaccion,Positivo
+586,usuario586,2025-01-19,El peor servicio que he recibido. #colera,80,82,31,peor servicio recibido colera,Negativo
+587,usuario587,2025-09-07,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",492,64,48,experiencia maravilloso satisfecho satisfaccion,Positivo
+588,usuario588,2025-11-24,"Un producto realmente bueno, supero mis expectativas. #alegria",355,32,26,producto realmente bueno supero expectativa alegrio,Positivo
+589,usuario589,2025-10-14,Me siento decepcionado con la calidad. #decepcion,136,31,50,sentir decepcionado calidad decepcion,Negativo
+590,usuario590,2025-05-28,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",359,88,48,experiencia maravilloso satisfecho satisfaccion,Positivo
+591,usuario591,2025-02-06,Me siento decepcionado con la calidad. #decepcion,226,7,10,sentir decepcionado calidad decepcion,Negativo
+592,usuario592,2025-12-22,No puedo creer lo mal que funciona esto. #colera,44,22,21,poder creer mal función colera,Negativo
+593,usuario593,2025-07-05,Estoy muy feliz con este producto! #alegria,435,6,13,feliz producto alegrio,Positivo
+594,usuario594,2025-11-27,"No volvere a comprar aqui, muy decepcionado. #decepcion",71,73,21,volverir comprar aqui decepcionado decepcion,Negativo
+595,usuario595,2025-02-05,"Esto es increible, estoy extasiado! #extasis",71,65,36,increible extasiado extasis,Positivo
+596,usuario596,2025-01-10,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",142,65,14,servicio excelente satisfecho satisfaccion,Positivo
+597,usuario597,2025-07-05,Me siento decepcionado con la calidad. #decepcion,317,96,41,sentir decepcionado calidad decepcion,Negativo
+598,usuario598,2025-05-08,"Esto es increible, estoy extasiado! #extasis",212,25,49,increible extasiado extasis,Positivo
+599,usuario599,2025-08-11,Es frustrante que no funcione como esperaba. #frustracion,379,29,29,frustrante funcione esperar frustracion,Negativo
+600,usuario600,2025-03-29,Estoy muy feliz con este producto! #alegria,85,5,46,feliz producto alegrio,Positivo
+601,usuario601,2025-03-27,"No volvere a comprar aqui, muy decepcionado. #decepcion",344,62,1,volverir comprar aqui decepcionado decepcion,Negativo
+602,usuario602,2025-03-02,No puedo creer lo mal que funciona esto. #colera,408,86,46,poder creer mal función colera,Negativo
+603,usuario603,2025-03-03,"Un producto realmente bueno, supero mis expectativas. #alegria",403,91,49,producto realmente bueno supero expectativa alegrio,Positivo
+604,usuario604,2025-10-10,Estoy muy feliz con este producto! #alegria,279,79,29,feliz producto alegrio,Positivo
+605,usuario605,2025-08-28,Me siento decepcionado con la calidad. #decepcion,409,79,49,sentir decepcionado calidad decepcion,Negativo
+606,usuario606,2025-11-30,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",421,59,41,servicio excelente satisfecho satisfaccion,Positivo
+607,usuario607,2025-11-02,"No volvere a comprar aqui, muy decepcionado. #decepcion",209,79,33,volverir comprar aqui decepcionado decepcion,Negativo
+608,usuario608,2025-05-25,"No volvere a comprar aqui, muy decepcionado. #decepcion",154,59,46,volverir comprar aqui decepcionado decepcion,Negativo
+609,usuario609,2025-06-13,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",262,55,41,servicio excelente satisfecho satisfaccion,Positivo
+610,usuario610,2025-06-12,Es frustrante que no funcione como esperaba. #frustracion,174,98,37,frustrante funcione esperar frustracion,Negativo
+611,usuario611,2025-01-19,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",107,31,47,experiencia maravilloso satisfecho satisfaccion,Positivo
+612,usuario612,2025-12-28,"Esto es increible, estoy extasiado! #extasis",416,86,12,increible extasiado extasis,Positivo
+613,usuario613,2025-05-12,Me siento decepcionado con la calidad. #decepcion,134,23,28,sentir decepcionado calidad decepcion,Negativo
+614,usuario614,2025-04-09,Estoy muy feliz con este producto! #alegria,5,34,20,feliz producto alegrio,Positivo
+615,usuario615,2025-12-06,"Un producto realmente bueno, supero mis expectativas. #alegria",219,34,41,producto realmente bueno supero expectativa alegrio,Positivo
+616,usuario616,2025-12-05,"No volvere a comprar aqui, muy decepcionado. #decepcion",484,10,14,volverir comprar aqui decepcionado decepcion,Negativo
+617,usuario617,2025-03-09,"No volvere a comprar aqui, muy decepcionado. #decepcion",322,4,43,volverir comprar aqui decepcionado decepcion,Negativo
+618,usuario618,2025-01-10,No puedo creer lo mal que funciona esto. #colera,132,37,0,poder creer mal función colera,Negativo
+619,usuario619,2025-10-05,"Un producto realmente bueno, supero mis expectativas. #alegria",403,2,49,producto realmente bueno supero expectativa alegrio,Positivo
+620,usuario620,2025-11-12,Es frustrante que no funcione como esperaba. #frustracion,277,60,25,frustrante funcione esperar frustracion,Negativo
+621,usuario621,2025-01-29,Estoy muy feliz con este producto! #alegria,264,68,45,feliz producto alegrio,Positivo
+622,usuario622,2025-11-07,"No volvere a comprar aqui, muy decepcionado. #decepcion",113,0,29,volverir comprar aqui decepcionado decepcion,Negativo
+623,usuario623,2025-08-12,"Esto es increible, estoy extasiado! #extasis",218,5,17,increible extasiado extasis,Positivo
+624,usuario624,2025-02-12,Estoy muy feliz con este producto! #alegria,33,58,19,feliz producto alegrio,Positivo
+625,usuario625,2025-12-10,"Esto es increible, estoy extasiado! #extasis",251,79,44,increible extasiado extasis,Positivo
+626,usuario626,2025-04-07,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",384,79,36,servicio excelente satisfecho satisfaccion,Positivo
+627,usuario627,2025-08-29,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",313,51,19,experiencia maravilloso satisfecho satisfaccion,Positivo
+628,usuario628,2025-07-27,"Un producto realmente bueno, supero mis expectativas. #alegria",377,6,23,producto realmente bueno supero expectativa alegrio,Positivo
+629,usuario629,2025-03-27,Me siento decepcionado con la calidad. #decepcion,328,95,32,sentir decepcionado calidad decepcion,Negativo
+630,usuario630,2025-04-08,"Esto es increible, estoy extasiado! #extasis",261,13,19,increible extasiado extasis,Positivo
+631,usuario631,2025-04-10,No puedo creer lo mal que funciona esto. #colera,99,69,22,poder creer mal función colera,Negativo
+632,usuario632,2025-03-25,No puedo creer lo mal que funciona esto. #colera,24,93,28,poder creer mal función colera,Negativo
+633,usuario633,2025-06-04,"No volvere a comprar aqui, muy decepcionado. #decepcion",230,82,4,volverir comprar aqui decepcionado decepcion,Negativo
+634,usuario634,2025-01-15,"Un producto realmente bueno, supero mis expectativas. #alegria",352,0,4,producto realmente bueno supero expectativa alegrio,Positivo
+635,usuario635,2025-10-21,Me siento decepcionado con la calidad. #decepcion,365,19,12,sentir decepcionado calidad decepcion,Negativo
+636,usuario636,2025-11-04,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",392,34,7,servicio excelente satisfecho satisfaccion,Positivo
+637,usuario637,2025-03-25,No puedo creer lo mal que funciona esto. #colera,285,7,0,poder creer mal función colera,Negativo
+638,usuario638,2025-09-07,"No volvere a comprar aqui, muy decepcionado. #decepcion",336,78,21,volverir comprar aqui decepcionado decepcion,Negativo
+639,usuario639,2025-02-24,El peor servicio que he recibido. #colera,450,86,37,peor servicio recibido colera,Negativo
+640,usuario640,2025-05-19,El peor servicio que he recibido. #colera,122,36,49,peor servicio recibido colera,Negativo
+641,usuario641,2025-06-27,Estoy muy feliz con este producto! #alegria,126,90,23,feliz producto alegrio,Positivo
+642,usuario642,2025-01-21,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",10,82,43,experiencia maravilloso satisfecho satisfaccion,Positivo
+643,usuario643,2025-04-27,"No volvere a comprar aqui, muy decepcionado. #decepcion",200,97,6,volverir comprar aqui decepcionado decepcion,Negativo
+644,usuario644,2025-09-07,El peor servicio que he recibido. #colera,234,42,5,peor servicio recibido colera,Negativo
+645,usuario645,2025-07-24,"Un producto realmente bueno, supero mis expectativas. #alegria",108,10,31,producto realmente bueno supero expectativa alegrio,Positivo
+646,usuario646,2025-06-02,Me siento decepcionado con la calidad. #decepcion,123,75,26,sentir decepcionado calidad decepcion,Negativo
+647,usuario647,2025-11-19,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",474,92,40,experiencia maravilloso satisfecho satisfaccion,Positivo
+648,usuario648,2025-03-23,Es frustrante que no funcione como esperaba. #frustracion,31,96,28,frustrante funcione esperar frustracion,Negativo
+649,usuario649,2025-07-16,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",371,36,43,servicio excelente satisfecho satisfaccion,Positivo
+650,usuario650,2025-05-04,Estoy muy feliz con este producto! #alegria,325,14,38,feliz producto alegrio,Positivo
+651,usuario651,2025-09-20,Es frustrante que no funcione como esperaba. #frustracion,457,69,28,frustrante funcione esperar frustracion,Negativo
+652,usuario652,2025-08-01,"Esto es increible, estoy extasiado! #extasis",471,25,5,increible extasiado extasis,Positivo
+653,usuario653,2025-10-29,No puedo creer lo mal que funciona esto. #colera,410,0,48,poder creer mal función colera,Negativo
+654,usuario654,2025-07-13,Me siento decepcionado con la calidad. #decepcion,131,18,4,sentir decepcionado calidad decepcion,Negativo
+655,usuario655,2025-06-16,"Un producto realmente bueno, supero mis expectativas. #alegria",122,65,34,producto realmente bueno supero expectativa alegrio,Positivo
+656,usuario656,2025-04-02,"Esto es increible, estoy extasiado! #extasis",105,82,9,increible extasiado extasis,Positivo
+657,usuario657,2025-07-21,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",206,88,24,experiencia maravilloso satisfecho satisfaccion,Positivo
+658,usuario658,2025-04-25,No puedo creer lo mal que funciona esto. #colera,397,24,17,poder creer mal función colera,Negativo
+659,usuario659,2025-09-15,Es frustrante que no funcione como esperaba. #frustracion,119,47,17,frustrante funcione esperar frustracion,Negativo
+660,usuario660,2025-07-30,"Un producto realmente bueno, supero mis expectativas. #alegria",260,66,31,producto realmente bueno supero expectativa alegrio,Positivo
+661,usuario661,2025-07-10,Me siento decepcionado con la calidad. #decepcion,6,29,25,sentir decepcionado calidad decepcion,Negativo
+662,usuario662,2025-01-24,No puedo creer lo mal que funciona esto. #colera,238,36,22,poder creer mal función colera,Negativo
+663,usuario663,2025-04-29,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",53,72,45,experiencia maravilloso satisfecho satisfaccion,Positivo
+664,usuario664,2025-07-19,Estoy muy feliz con este producto! #alegria,208,82,23,feliz producto alegrio,Positivo
+665,usuario665,2025-10-16,Es frustrante que no funcione como esperaba. #frustracion,252,84,43,frustrante funcione esperar frustracion,Negativo
+666,usuario666,2025-10-11,El peor servicio que he recibido. #colera,206,34,47,peor servicio recibido colera,Negativo
+667,usuario667,2025-08-27,"Esto es increible, estoy extasiado! #extasis",98,86,21,increible extasiado extasis,Positivo
+668,usuario668,2025-04-11,Me siento decepcionado con la calidad. #decepcion,340,50,1,sentir decepcionado calidad decepcion,Negativo
+669,usuario669,2025-07-30,No puedo creer lo mal que funciona esto. #colera,88,53,27,poder creer mal función colera,Negativo
+670,usuario670,2025-07-11,Estoy muy feliz con este producto! #alegria,131,68,11,feliz producto alegrio,Positivo
+671,usuario671,2025-08-20,Me siento decepcionado con la calidad. #decepcion,75,76,38,sentir decepcionado calidad decepcion,Negativo
+672,usuario672,2025-12-18,"Esto es increible, estoy extasiado! #extasis",315,17,47,increible extasiado extasis,Positivo
+673,usuario673,2025-01-30,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",299,98,5,servicio excelente satisfecho satisfaccion,Positivo
+674,usuario674,2025-01-04,"Un producto realmente bueno, supero mis expectativas. #alegria",500,86,29,producto realmente bueno supero expectativa alegrio,Positivo
+675,usuario675,2025-01-11,Me siento decepcionado con la calidad. #decepcion,246,17,20,sentir decepcionado calidad decepcion,Negativo
+676,usuario676,2025-02-08,"Un producto realmente bueno, supero mis expectativas. #alegria",425,6,11,producto realmente bueno supero expectativa alegrio,Positivo
+677,usuario677,2025-05-22,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",464,52,23,experiencia maravilloso satisfecho satisfaccion,Positivo
+678,usuario678,2025-09-21,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",373,57,7,experiencia maravilloso satisfecho satisfaccion,Positivo
+679,usuario679,2025-10-21,"Esto es increible, estoy extasiado! #extasis",60,35,23,increible extasiado extasis,Positivo
+680,usuario680,2025-12-06,Me siento decepcionado con la calidad. #decepcion,442,75,22,sentir decepcionado calidad decepcion,Negativo
+681,usuario681,2025-12-25,Estoy muy feliz con este producto! #alegria,192,27,13,feliz producto alegrio,Positivo
+682,usuario682,2025-03-15,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",192,86,3,experiencia maravilloso satisfecho satisfaccion,Positivo
+683,usuario683,2025-07-11,"Esto es increible, estoy extasiado! #extasis",363,71,19,increible extasiado extasis,Positivo
+684,usuario684,2025-07-09,Es frustrante que no funcione como esperaba. #frustracion,138,71,3,frustrante funcione esperar frustracion,Negativo
+685,usuario685,2025-09-14,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",315,14,16,servicio excelente satisfecho satisfaccion,Positivo
+686,usuario686,2025-04-13,Es frustrante que no funcione como esperaba. #frustracion,124,33,10,frustrante funcione esperar frustracion,Negativo
+687,usuario687,2025-10-16,"Esto es increible, estoy extasiado! #extasis",418,74,41,increible extasiado extasis,Positivo
+688,usuario688,2025-01-15,"Esto es increible, estoy extasiado! #extasis",35,14,22,increible extasiado extasis,Positivo
+689,usuario689,2025-09-27,Estoy muy feliz con este producto! #alegria,297,32,24,feliz producto alegrio,Positivo
+690,usuario690,2025-02-16,No puedo creer lo mal que funciona esto. #colera,121,4,0,poder creer mal función colera,Negativo
+691,usuario691,2025-07-31,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",218,18,3,experiencia maravilloso satisfecho satisfaccion,Positivo
+692,usuario692,2025-08-22,"No volvere a comprar aqui, muy decepcionado. #decepcion",348,27,30,volverir comprar aqui decepcionado decepcion,Negativo
+693,usuario693,2025-06-30,"Esto es increible, estoy extasiado! #extasis",110,1,13,increible extasiado extasis,Positivo
+694,usuario694,2025-09-18,"Esto es increible, estoy extasiado! #extasis",354,11,5,increible extasiado extasis,Positivo
+695,usuario695,2025-01-08,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",93,40,50,servicio excelente satisfecho satisfaccion,Positivo
+696,usuario696,2025-01-14,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",176,16,40,servicio excelente satisfecho satisfaccion,Positivo
+697,usuario697,2025-07-22,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",401,38,27,experiencia maravilloso satisfecho satisfaccion,Positivo
+698,usuario698,2025-07-02,"No volvere a comprar aqui, muy decepcionado. #decepcion",282,52,36,volverir comprar aqui decepcionado decepcion,Negativo
+699,usuario699,2025-04-13,"No volvere a comprar aqui, muy decepcionado. #decepcion",285,13,19,volverir comprar aqui decepcionado decepcion,Negativo
+700,usuario700,2025-01-30,El peor servicio que he recibido. #colera,405,37,33,peor servicio recibido colera,Negativo
+701,usuario701,2025-06-16,Estoy muy feliz con este producto! #alegria,2,100,13,feliz producto alegrio,Positivo
+702,usuario702,2025-08-13,"Esto es increible, estoy extasiado! #extasis",490,92,40,increible extasiado extasis,Positivo
+703,usuario703,2025-02-08,"No volvere a comprar aqui, muy decepcionado. #decepcion",15,29,45,volverir comprar aqui decepcionado decepcion,Negativo
+704,usuario704,2025-07-28,El peor servicio que he recibido. #colera,125,50,45,peor servicio recibido colera,Negativo
+705,usuario705,2025-08-01,Estoy muy feliz con este producto! #alegria,404,96,38,feliz producto alegrio,Positivo
+706,usuario706,2025-11-01,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",208,34,17,servicio excelente satisfecho satisfaccion,Positivo
+707,usuario707,2025-09-15,No puedo creer lo mal que funciona esto. #colera,215,14,35,poder creer mal función colera,Negativo
+708,usuario708,2025-03-01,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",140,1,41,servicio excelente satisfecho satisfaccion,Positivo
+709,usuario709,2025-02-21,No puedo creer lo mal que funciona esto. #colera,64,53,10,poder creer mal función colera,Negativo
+710,usuario710,2025-05-19,"Esto es increible, estoy extasiado! #extasis",178,28,26,increible extasiado extasis,Positivo
+711,usuario711,2025-02-11,"Un producto realmente bueno, supero mis expectativas. #alegria",84,71,14,producto realmente bueno supero expectativa alegrio,Positivo
+712,usuario712,2025-10-31,"Un producto realmente bueno, supero mis expectativas. #alegria",315,6,15,producto realmente bueno supero expectativa alegrio,Positivo
+713,usuario713,2025-10-26,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",326,97,2,experiencia maravilloso satisfecho satisfaccion,Positivo
+714,usuario714,2025-05-24,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",270,21,49,servicio excelente satisfecho satisfaccion,Positivo
+715,usuario715,2025-05-30,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",28,55,20,servicio excelente satisfecho satisfaccion,Positivo
+716,usuario716,2025-01-14,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",205,70,28,experiencia maravilloso satisfecho satisfaccion,Positivo
+717,usuario717,2025-12-16,Es frustrante que no funcione como esperaba. #frustracion,53,60,46,frustrante funcione esperar frustracion,Negativo
+718,usuario718,2025-04-03,"No volvere a comprar aqui, muy decepcionado. #decepcion",164,0,28,volverir comprar aqui decepcionado decepcion,Negativo
+719,usuario719,2025-07-07,Es frustrante que no funcione como esperaba. #frustracion,185,8,29,frustrante funcione esperar frustracion,Negativo
+720,usuario720,2025-11-08,Me siento decepcionado con la calidad. #decepcion,116,66,38,sentir decepcionado calidad decepcion,Negativo
+721,usuario721,2025-12-10,El peor servicio que he recibido. #colera,7,90,7,peor servicio recibido colera,Negativo
+722,usuario722,2025-03-19,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",177,77,15,experiencia maravilloso satisfecho satisfaccion,Positivo
+723,usuario723,2025-10-19,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",462,64,27,servicio excelente satisfecho satisfaccion,Positivo
+724,usuario724,2025-10-04,"Esto es increible, estoy extasiado! #extasis",486,18,12,increible extasiado extasis,Positivo
+725,usuario725,2025-01-20,"No volvere a comprar aqui, muy decepcionado. #decepcion",356,99,5,volverir comprar aqui decepcionado decepcion,Negativo
+726,usuario726,2025-06-22,"No volvere a comprar aqui, muy decepcionado. #decepcion",319,54,1,volverir comprar aqui decepcionado decepcion,Negativo
+727,usuario727,2025-04-11,"Un producto realmente bueno, supero mis expectativas. #alegria",259,0,9,producto realmente bueno supero expectativa alegrio,Positivo
+728,usuario728,2025-12-22,"Un producto realmente bueno, supero mis expectativas. #alegria",491,96,27,producto realmente bueno supero expectativa alegrio,Positivo
+729,usuario729,2025-09-25,Estoy muy feliz con este producto! #alegria,162,83,44,feliz producto alegrio,Positivo
+730,usuario730,2025-02-24,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",31,59,38,servicio excelente satisfecho satisfaccion,Positivo
+731,usuario731,2025-04-15,"Un producto realmente bueno, supero mis expectativas. #alegria",438,29,32,producto realmente bueno supero expectativa alegrio,Positivo
+732,usuario732,2025-08-26,"Un producto realmente bueno, supero mis expectativas. #alegria",432,59,14,producto realmente bueno supero expectativa alegrio,Positivo
+733,usuario733,2025-08-28,"Un producto realmente bueno, supero mis expectativas. #alegria",329,99,38,producto realmente bueno supero expectativa alegrio,Positivo
+734,usuario734,2025-12-28,No puedo creer lo mal que funciona esto. #colera,303,53,35,poder creer mal función colera,Negativo
+735,usuario735,2025-01-25,"Esto es increible, estoy extasiado! #extasis",408,49,35,increible extasiado extasis,Positivo
+736,usuario736,2025-07-15,"No volvere a comprar aqui, muy decepcionado. #decepcion",4,81,43,volverir comprar aqui decepcionado decepcion,Negativo
+737,usuario737,2025-09-09,Me siento decepcionado con la calidad. #decepcion,179,64,11,sentir decepcionado calidad decepcion,Negativo
+738,usuario738,2025-01-25,"Un producto realmente bueno, supero mis expectativas. #alegria",194,55,48,producto realmente bueno supero expectativa alegrio,Positivo
+739,usuario739,2025-04-07,No puedo creer lo mal que funciona esto. #colera,319,6,28,poder creer mal función colera,Negativo
+740,usuario740,2025-06-23,"Esto es increible, estoy extasiado! #extasis",165,45,2,increible extasiado extasis,Positivo
+741,usuario741,2025-02-06,Es frustrante que no funcione como esperaba. #frustracion,446,85,43,frustrante funcione esperar frustracion,Negativo
+742,usuario742,2025-05-05,Es frustrante que no funcione como esperaba. #frustracion,112,78,17,frustrante funcione esperar frustracion,Negativo
+743,usuario743,2025-05-08,"No volvere a comprar aqui, muy decepcionado. #decepcion",383,23,37,volverir comprar aqui decepcionado decepcion,Negativo
+744,usuario744,2025-09-27,El peor servicio que he recibido. #colera,311,85,46,peor servicio recibido colera,Negativo
+745,usuario745,2025-01-02,"No volvere a comprar aqui, muy decepcionado. #decepcion",463,67,1,volverir comprar aqui decepcionado decepcion,Negativo
+746,usuario746,2025-09-06,"No volvere a comprar aqui, muy decepcionado. #decepcion",332,11,41,volverir comprar aqui decepcionado decepcion,Negativo
+747,usuario747,2025-07-30,Me siento decepcionado con la calidad. #decepcion,62,6,33,sentir decepcionado calidad decepcion,Negativo
+748,usuario748,2025-05-05,Me siento decepcionado con la calidad. #decepcion,326,77,41,sentir decepcionado calidad decepcion,Negativo
+749,usuario749,2025-07-21,"No volvere a comprar aqui, muy decepcionado. #decepcion",205,87,14,volverir comprar aqui decepcionado decepcion,Negativo
+750,usuario750,2025-06-09,"Un producto realmente bueno, supero mis expectativas. #alegria",253,54,43,producto realmente bueno supero expectativa alegrio,Positivo
+751,usuario751,2025-10-24,Estoy muy feliz con este producto! #alegria,129,37,31,feliz producto alegrio,Positivo
+752,usuario752,2025-01-31,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",58,49,19,servicio excelente satisfecho satisfaccion,Positivo
+753,usuario753,2025-03-30,"No volvere a comprar aqui, muy decepcionado. #decepcion",125,42,42,volverir comprar aqui decepcionado decepcion,Negativo
+754,usuario754,2025-11-16,"Esto es increible, estoy extasiado! #extasis",458,38,26,increible extasiado extasis,Positivo
+755,usuario755,2025-02-18,No puedo creer lo mal que funciona esto. #colera,483,90,13,poder creer mal función colera,Negativo
+756,usuario756,2025-12-15,No puedo creer lo mal que funciona esto. #colera,419,76,15,poder creer mal función colera,Negativo
+757,usuario757,2025-12-20,No puedo creer lo mal que funciona esto. #colera,429,19,30,poder creer mal función colera,Negativo
+758,usuario758,2025-09-28,"Un producto realmente bueno, supero mis expectativas. #alegria",478,63,50,producto realmente bueno supero expectativa alegrio,Positivo
+759,usuario759,2025-11-23,Estoy muy feliz con este producto! #alegria,4,15,8,feliz producto alegrio,Positivo
+760,usuario760,2025-11-06,"No volvere a comprar aqui, muy decepcionado. #decepcion",164,39,44,volverir comprar aqui decepcionado decepcion,Negativo
+761,usuario761,2025-03-14,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",144,22,38,experiencia maravilloso satisfecho satisfaccion,Positivo
+762,usuario762,2025-11-28,"Esto es increible, estoy extasiado! #extasis",59,39,49,increible extasiado extasis,Positivo
+763,usuario763,2025-11-13,"Un producto realmente bueno, supero mis expectativas. #alegria",386,60,49,producto realmente bueno supero expectativa alegrio,Positivo
+764,usuario764,2025-12-11,Estoy muy feliz con este producto! #alegria,240,93,20,feliz producto alegrio,Positivo
+765,usuario765,2025-01-06,No puedo creer lo mal que funciona esto. #colera,30,59,31,poder creer mal función colera,Negativo
+766,usuario766,2025-04-07,"No volvere a comprar aqui, muy decepcionado. #decepcion",473,49,46,volverir comprar aqui decepcionado decepcion,Negativo
+767,usuario767,2025-12-26,"Esto es increible, estoy extasiado! #extasis",161,90,8,increible extasiado extasis,Positivo
+768,usuario768,2025-05-15,"Esto es increible, estoy extasiado! #extasis",201,3,6,increible extasiado extasis,Positivo
+769,usuario769,2025-07-25,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",284,55,14,servicio excelente satisfecho satisfaccion,Positivo
+770,usuario770,2025-03-02,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",184,4,9,servicio excelente satisfecho satisfaccion,Positivo
+771,usuario771,2025-11-26,Es frustrante que no funcione como esperaba. #frustracion,307,22,14,frustrante funcione esperar frustracion,Negativo
+772,usuario772,2025-06-24,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",140,69,45,servicio excelente satisfecho satisfaccion,Positivo
+773,usuario773,2025-11-12,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",362,65,8,experiencia maravilloso satisfecho satisfaccion,Positivo
+774,usuario774,2025-06-14,"Un producto realmente bueno, supero mis expectativas. #alegria",98,13,1,producto realmente bueno supero expectativa alegrio,Positivo
+775,usuario775,2025-12-19,Es frustrante que no funcione como esperaba. #frustracion,1,11,26,frustrante funcione esperar frustracion,Negativo
+776,usuario776,2025-04-10,Me siento decepcionado con la calidad. #decepcion,349,29,19,sentir decepcionado calidad decepcion,Negativo
+777,usuario777,2025-06-21,"Un producto realmente bueno, supero mis expectativas. #alegria",437,27,15,producto realmente bueno supero expectativa alegrio,Positivo
+778,usuario778,2025-11-13,"Esto es increible, estoy extasiado! #extasis",19,93,4,increible extasiado extasis,Positivo
+779,usuario779,2025-04-14,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",300,68,35,servicio excelente satisfecho satisfaccion,Positivo
+780,usuario780,2025-05-23,"Esto es increible, estoy extasiado! #extasis",316,30,5,increible extasiado extasis,Positivo
+781,usuario781,2025-05-10,Me siento decepcionado con la calidad. #decepcion,110,21,8,sentir decepcionado calidad decepcion,Negativo
+782,usuario782,2025-08-16,No puedo creer lo mal que funciona esto. #colera,382,21,32,poder creer mal función colera,Negativo
+783,usuario783,2025-05-12,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",250,82,46,experiencia maravilloso satisfecho satisfaccion,Positivo
+784,usuario784,2025-05-07,El peor servicio que he recibido. #colera,401,40,33,peor servicio recibido colera,Negativo
+785,usuario785,2025-04-09,Me siento decepcionado con la calidad. #decepcion,348,46,9,sentir decepcionado calidad decepcion,Negativo
+786,usuario786,2025-10-06,Me siento decepcionado con la calidad. #decepcion,140,19,12,sentir decepcionado calidad decepcion,Negativo
+787,usuario787,2025-11-02,"Un producto realmente bueno, supero mis expectativas. #alegria",108,33,41,producto realmente bueno supero expectativa alegrio,Positivo
+788,usuario788,2025-11-16,"Esto es increible, estoy extasiado! #extasis",376,86,11,increible extasiado extasis,Positivo
+789,usuario789,2025-10-14,Estoy muy feliz con este producto! #alegria,262,46,9,feliz producto alegrio,Positivo
+790,usuario790,2025-09-09,"Un producto realmente bueno, supero mis expectativas. #alegria",157,44,43,producto realmente bueno supero expectativa alegrio,Positivo
+791,usuario791,2025-04-29,"Un producto realmente bueno, supero mis expectativas. #alegria",214,84,31,producto realmente bueno supero expectativa alegrio,Positivo
+792,usuario792,2025-01-03,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",259,83,40,servicio excelente satisfecho satisfaccion,Positivo
+793,usuario793,2025-11-14,El peor servicio que he recibido. #colera,338,55,24,peor servicio recibido colera,Negativo
+794,usuario794,2025-07-23,Me siento decepcionado con la calidad. #decepcion,70,19,27,sentir decepcionado calidad decepcion,Negativo
+795,usuario795,2025-05-20,Estoy muy feliz con este producto! #alegria,130,86,46,feliz producto alegrio,Positivo
+796,usuario796,2025-08-11,"Esto es increible, estoy extasiado! #extasis",430,90,0,increible extasiado extasis,Positivo
+797,usuario797,2025-05-25,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",368,33,49,experiencia maravilloso satisfecho satisfaccion,Positivo
+798,usuario798,2025-07-04,"No volvere a comprar aqui, muy decepcionado. #decepcion",393,10,21,volverir comprar aqui decepcionado decepcion,Negativo
+799,usuario799,2025-05-01,Es frustrante que no funcione como esperaba. #frustracion,257,10,46,frustrante funcione esperar frustracion,Negativo
+800,usuario800,2025-04-06,Es frustrante que no funcione como esperaba. #frustracion,406,79,17,frustrante funcione esperar frustracion,Negativo
+801,usuario801,2025-11-29,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",55,69,8,servicio excelente satisfecho satisfaccion,Positivo
+802,usuario802,2025-01-19,Estoy muy feliz con este producto! #alegria,426,1,35,feliz producto alegrio,Positivo
+803,usuario803,2025-04-02,Es frustrante que no funcione como esperaba. #frustracion,468,18,12,frustrante funcione esperar frustracion,Negativo
+804,usuario804,2025-01-13,"Un producto realmente bueno, supero mis expectativas. #alegria",432,48,11,producto realmente bueno supero expectativa alegrio,Positivo
+805,usuario805,2025-04-04,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",311,100,31,experiencia maravilloso satisfecho satisfaccion,Positivo
+806,usuario806,2025-10-18,"Un producto realmente bueno, supero mis expectativas. #alegria",350,38,26,producto realmente bueno supero expectativa alegrio,Positivo
+807,usuario807,2025-08-25,"No volvere a comprar aqui, muy decepcionado. #decepcion",457,18,7,volverir comprar aqui decepcionado decepcion,Negativo
+808,usuario808,2025-08-31,Me siento decepcionado con la calidad. #decepcion,494,3,46,sentir decepcionado calidad decepcion,Negativo
+809,usuario809,2025-06-19,"Un producto realmente bueno, supero mis expectativas. #alegria",176,2,28,producto realmente bueno supero expectativa alegrio,Positivo
+810,usuario810,2025-05-24,"No volvere a comprar aqui, muy decepcionado. #decepcion",169,24,13,volverir comprar aqui decepcionado decepcion,Negativo
+811,usuario811,2025-08-02,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",419,34,41,experiencia maravilloso satisfecho satisfaccion,Positivo
+812,usuario812,2025-03-19,Me siento decepcionado con la calidad. #decepcion,374,0,6,sentir decepcionado calidad decepcion,Negativo
+813,usuario813,2025-04-08,Estoy muy feliz con este producto! #alegria,489,74,45,feliz producto alegrio,Positivo
+814,usuario814,2025-10-08,Es frustrante que no funcione como esperaba. #frustracion,275,88,23,frustrante funcione esperar frustracion,Negativo
+815,usuario815,2025-08-12,Es frustrante que no funcione como esperaba. #frustracion,40,46,1,frustrante funcione esperar frustracion,Negativo
+816,usuario816,2025-04-03,Es frustrante que no funcione como esperaba. #frustracion,135,20,6,frustrante funcione esperar frustracion,Negativo
+817,usuario817,2025-07-07,"No volvere a comprar aqui, muy decepcionado. #decepcion",51,59,36,volverir comprar aqui decepcionado decepcion,Negativo
+818,usuario818,2025-08-17,El peor servicio que he recibido. #colera,200,1,5,peor servicio recibido colera,Negativo
+819,usuario819,2025-08-05,El peor servicio que he recibido. #colera,350,13,34,peor servicio recibido colera,Negativo
+820,usuario820,2025-05-04,"No volvere a comprar aqui, muy decepcionado. #decepcion",129,81,17,volverir comprar aqui decepcionado decepcion,Negativo
+821,usuario821,2025-06-27,No puedo creer lo mal que funciona esto. #colera,256,50,7,poder creer mal función colera,Negativo
+822,usuario822,2025-08-29,Estoy muy feliz con este producto! #alegria,478,60,29,feliz producto alegrio,Positivo
+823,usuario823,2025-06-30,El peor servicio que he recibido. #colera,284,54,4,peor servicio recibido colera,Negativo
+824,usuario824,2025-04-19,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",405,2,3,experiencia maravilloso satisfecho satisfaccion,Positivo
+825,usuario825,2025-07-31,Me siento decepcionado con la calidad. #decepcion,15,74,34,sentir decepcionado calidad decepcion,Negativo
+826,usuario826,2025-01-12,El peor servicio que he recibido. #colera,197,70,25,peor servicio recibido colera,Negativo
+827,usuario827,2025-07-21,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",265,23,7,experiencia maravilloso satisfecho satisfaccion,Positivo
+828,usuario828,2025-02-02,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",313,93,18,servicio excelente satisfecho satisfaccion,Positivo
+829,usuario829,2025-07-20,"Esto es increible, estoy extasiado! #extasis",194,45,43,increible extasiado extasis,Positivo
+830,usuario830,2025-04-19,Estoy muy feliz con este producto! #alegria,77,55,15,feliz producto alegrio,Positivo
+831,usuario831,2025-11-27,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",351,49,39,servicio excelente satisfecho satisfaccion,Positivo
+832,usuario832,2025-02-23,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",423,94,32,experiencia maravilloso satisfecho satisfaccion,Positivo
+833,usuario833,2025-09-09,"No volvere a comprar aqui, muy decepcionado. #decepcion",455,70,38,volverir comprar aqui decepcionado decepcion,Negativo
+834,usuario834,2025-11-27,Estoy muy feliz con este producto! #alegria,321,56,45,feliz producto alegrio,Positivo
+835,usuario835,2025-01-11,Me siento decepcionado con la calidad. #decepcion,52,32,26,sentir decepcionado calidad decepcion,Negativo
+836,usuario836,2025-10-26,No puedo creer lo mal que funciona esto. #colera,152,83,30,poder creer mal función colera,Negativo
+837,usuario837,2025-07-25,Es frustrante que no funcione como esperaba. #frustracion,253,80,5,frustrante funcione esperar frustracion,Negativo
+838,usuario838,2025-10-03,Es frustrante que no funcione como esperaba. #frustracion,308,24,45,frustrante funcione esperar frustracion,Negativo
+839,usuario839,2025-03-31,Me siento decepcionado con la calidad. #decepcion,276,94,28,sentir decepcionado calidad decepcion,Negativo
+840,usuario840,2025-01-03,Estoy muy feliz con este producto! #alegria,201,1,18,feliz producto alegrio,Positivo
+841,usuario841,2025-11-29,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",331,100,34,servicio excelente satisfecho satisfaccion,Positivo
+842,usuario842,2025-08-10,Estoy muy feliz con este producto! #alegria,227,22,7,feliz producto alegrio,Positivo
+843,usuario843,2025-03-02,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",314,100,25,servicio excelente satisfecho satisfaccion,Positivo
+844,usuario844,2025-10-18,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",225,59,2,experiencia maravilloso satisfecho satisfaccion,Positivo
+845,usuario845,2025-05-09,El peor servicio que he recibido. #colera,2,6,1,peor servicio recibido colera,Negativo
+846,usuario846,2025-09-27,Me siento decepcionado con la calidad. #decepcion,253,67,5,sentir decepcionado calidad decepcion,Negativo
+847,usuario847,2025-09-21,"No volvere a comprar aqui, muy decepcionado. #decepcion",49,96,29,volverir comprar aqui decepcionado decepcion,Negativo
+848,usuario848,2025-01-20,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",104,33,50,servicio excelente satisfecho satisfaccion,Positivo
+849,usuario849,2025-11-17,"Un producto realmente bueno, supero mis expectativas. #alegria",277,25,13,producto realmente bueno supero expectativa alegrio,Positivo
+850,usuario850,2025-12-18,No puedo creer lo mal que funciona esto. #colera,97,83,28,poder creer mal función colera,Negativo
+851,usuario851,2025-12-27,No puedo creer lo mal que funciona esto. #colera,185,90,36,poder creer mal función colera,Negativo
+852,usuario852,2025-05-06,El peor servicio que he recibido. #colera,83,55,16,peor servicio recibido colera,Negativo
+853,usuario853,2025-11-02,Es frustrante que no funcione como esperaba. #frustracion,101,89,29,frustrante funcione esperar frustracion,Negativo
+854,usuario854,2025-06-18,"No volvere a comprar aqui, muy decepcionado. #decepcion",108,16,9,volverir comprar aqui decepcionado decepcion,Negativo
+855,usuario855,2025-03-12,El peor servicio que he recibido. #colera,146,89,12,peor servicio recibido colera,Negativo
+856,usuario856,2025-04-02,Es frustrante que no funcione como esperaba. #frustracion,145,85,45,frustrante funcione esperar frustracion,Negativo
+857,usuario857,2025-12-28,No puedo creer lo mal que funciona esto. #colera,224,100,1,poder creer mal función colera,Negativo
+858,usuario858,2025-10-15,"No volvere a comprar aqui, muy decepcionado. #decepcion",30,18,10,volverir comprar aqui decepcionado decepcion,Negativo
+859,usuario859,2025-11-21,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",196,27,20,servicio excelente satisfecho satisfaccion,Positivo
+860,usuario860,2025-01-31,Estoy muy feliz con este producto! #alegria,482,74,28,feliz producto alegrio,Positivo
+861,usuario861,2025-01-12,Es frustrante que no funcione como esperaba. #frustracion,23,79,34,frustrante funcione esperar frustracion,Negativo
+862,usuario862,2025-07-23,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",311,42,45,experiencia maravilloso satisfecho satisfaccion,Positivo
+863,usuario863,2025-11-22,Estoy muy feliz con este producto! #alegria,161,45,21,feliz producto alegrio,Positivo
+864,usuario864,2025-06-18,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",2,25,19,servicio excelente satisfecho satisfaccion,Positivo
+865,usuario865,2025-05-22,El peor servicio que he recibido. #colera,19,93,27,peor servicio recibido colera,Negativo
+866,usuario866,2025-08-03,Me siento decepcionado con la calidad. #decepcion,364,6,18,sentir decepcionado calidad decepcion,Negativo
+867,usuario867,2025-02-05,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",115,22,41,servicio excelente satisfecho satisfaccion,Positivo
+868,usuario868,2025-10-11,No puedo creer lo mal que funciona esto. #colera,456,87,29,poder creer mal función colera,Negativo
+869,usuario869,2025-06-19,Es frustrante que no funcione como esperaba. #frustracion,421,46,35,frustrante funcione esperar frustracion,Negativo
+870,usuario870,2025-05-03,"No volvere a comprar aqui, muy decepcionado. #decepcion",316,83,46,volverir comprar aqui decepcionado decepcion,Negativo
+871,usuario871,2025-07-27,El peor servicio que he recibido. #colera,481,47,27,peor servicio recibido colera,Negativo
+872,usuario872,2025-08-08,Es frustrante que no funcione como esperaba. #frustracion,440,82,42,frustrante funcione esperar frustracion,Negativo
+873,usuario873,2025-04-24,"No volvere a comprar aqui, muy decepcionado. #decepcion",130,100,23,volverir comprar aqui decepcionado decepcion,Negativo
+874,usuario874,2025-10-06,"Esto es increible, estoy extasiado! #extasis",176,88,14,increible extasiado extasis,Positivo
+875,usuario875,2025-03-10,Me siento decepcionado con la calidad. #decepcion,224,27,14,sentir decepcionado calidad decepcion,Negativo
+876,usuario876,2025-03-06,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",187,24,27,experiencia maravilloso satisfecho satisfaccion,Positivo
+877,usuario877,2025-05-08,Me siento decepcionado con la calidad. #decepcion,54,20,46,sentir decepcionado calidad decepcion,Negativo
+878,usuario878,2025-11-20,Me siento decepcionado con la calidad. #decepcion,3,57,7,sentir decepcionado calidad decepcion,Negativo
+879,usuario879,2025-12-03,No puedo creer lo mal que funciona esto. #colera,65,51,50,poder creer mal función colera,Negativo
+880,usuario880,2025-02-16,El peor servicio que he recibido. #colera,304,8,47,peor servicio recibido colera,Negativo
+881,usuario881,2025-09-29,"No volvere a comprar aqui, muy decepcionado. #decepcion",242,11,1,volverir comprar aqui decepcionado decepcion,Negativo
+882,usuario882,2025-09-05,El peor servicio que he recibido. #colera,487,53,29,peor servicio recibido colera,Negativo
+883,usuario883,2025-01-11,"Esto es increible, estoy extasiado! #extasis",82,44,40,increible extasiado extasis,Positivo
+884,usuario884,2025-09-13,Es frustrante que no funcione como esperaba. #frustracion,239,25,35,frustrante funcione esperar frustracion,Negativo
+885,usuario885,2025-06-10,"Este servicio es excelente, estoy muy satisfecho. #satisfaccion",440,44,4,servicio excelente satisfecho satisfaccion,Positivo
+886,usuario886,2025-09-20,"Esto es increible, estoy extasiado! #extasis",419,87,46,increible extasiado extasis,Positivo
+887,usuario887,2025-01-13,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",29,91,33,experiencia maravilloso satisfecho satisfaccion,Positivo
+888,usuario888,2025-09-05,No puedo creer lo mal que funciona esto. #colera,224,29,4,poder creer mal función colera,Negativo
+889,usuario889,2025-09-29,"Un producto realmente bueno, supero mis expectativas. #alegria",143,7,27,producto realmente bueno supero expectativa alegrio,Positivo
+890,usuario890,2025-05-06,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",279,50,38,experiencia maravilloso satisfecho satisfaccion,Positivo
+891,usuario891,2025-10-18,Estoy muy feliz con este producto! #alegria,477,92,29,feliz producto alegrio,Positivo
+892,usuario892,2025-11-25,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",28,22,50,experiencia maravilloso satisfecho satisfaccion,Positivo
+893,usuario893,2025-02-26,El peor servicio que he recibido. #colera,369,4,47,peor servicio recibido colera,Negativo
+894,usuario894,2025-02-23,"Una experiencia maravillosa, muy satisfecho. #satisfaccion",370,13,23,experiencia maravilloso satisfecho satisfaccion,Positivo
+895,usuario895,2025-05-09,"Un producto realmente bueno, supero mis expectativas. #alegria",424,98,48,producto realmente bueno supero expectativa alegrio,Positivo
+896,usuario896,2025-01-22,"Esto es increible, estoy extasiado! #extasis",431,42,10,increible extasiado extasis,Positivo
+897,usuario897,2025-04-21,"Esto es increible, estoy extasiado! #extasis",466,89,0,increible extasiado extasis,Positivo
+898,usuario898,2025-10-29,Es frustrante que no funcione como esperaba. #frustracion,332,28,6,frustrante funcione esperar frustracion,Negativo
+899,usuario899,2025-08-30,"No volvere a comprar aqui, muy decepcionado. #decepcion",260,89,17,volverir comprar aqui decepcionado decepcion,Negativo
+900,usuario900,2025-08-13,"Un producto realmente bueno, supero mis expectativas. #alegria",27,9,8,producto realmente bueno supero expectativa alegrio,Positivo
